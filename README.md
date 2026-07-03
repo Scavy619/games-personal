@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Scavy B2
 
-## Getting Started
+Scavy's personal corner of the internet — a full-stack rebuild of the original single-file HTML site. Five tabs (Personal, Gaming, Journal, Entertainment, Contact) backed by a real database and an admin panel, instead of hardcoded JS arrays.
 
-First, run the development server:
+## Stack
+
+- **Next.js 16** (App Router, TypeScript, Turbopack)
+- **Prisma 7** ORM with **SQLite** locally (`prisma/dev.db`), using the new driver-adapter client (`@prisma/adapter-better-sqlite3`)
+- **Tailwind CSS v4** with the site's design tokens (dark bg, violet `#8B5CF6` + cyan `#06EFC9` accents) mapped in `app/globals.css`
+- **Chart.js** (`react-chartjs-2`) for the 8 Gaming analytics charts
+- **RAWG.io** (games) + **TMDb** (movies) for the admin "search & auto-fill" enrichment tool
+- Simple password-gated admin (`/admin`) using a signed JWT cookie (`jose`), enforced in `proxy.ts` (Next 16's renamed `middleware.ts`)
+
+## Getting started
 
 ```bash
+npm install
+npx prisma migrate dev   # creates prisma/dev.db from prisma/schema.prisma
+npx tsx scripts/import-games.ts   # one-time import of scripts/data/scavy_games_export.json
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 for the public site, http://localhost:3000/admin for the admin panel.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Environment variables
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Copy `.env.example` → `.env` (or `.env.local`) and fill in:
 
-## Learn More
+```
+DATABASE_URL="file:./dev.db"     # sqlite locally; becomes a postgres URL when you move to Supabase
+RAWG_API_KEY=                    # free key: rawg.io/apidocs — needed for game auto-fill
+TMDB_API_KEY=                    # free key: themoviedb.org/settings/api — needed for movie auto-fill
+ADMIN_PASSWORD=                  # password for /admin
+SESSION_SECRET=                  # random string used to sign the admin session cookie
+```
 
-To learn more about Next.js, take a look at the following resources:
+A `.env` with dev-only defaults (`ADMIN_PASSWORD=scavy-dev`) is already present so you can try the admin panel immediately — **change this before deploying anywhere public.**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Adding games/movies going forward
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **One at a time**: `/admin/games/new` or `/admin/movies/new` → use the "Search & Auto-fill" box (needs the API keys above) to pull in genre/score/cover/synopsis from RAWG or TMDb, then edit anything before saving.
+- **In bulk**: append new entries to `scripts/data/scavy_games_export.json` and re-run `npx tsx scripts/import-games.ts` — it's idempotent (skips games that already exist by name).
+- **Custom fields**: every entity (games, movies, journal entries, sports logs, profile) has a "Custom Fields" key/value editor in its admin form, backed by a `Json` column — so you can add a new attribute without a code change or migration.
 
-## Deploy on Vercel
+## Architecture notes for future expansion
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- `lib/enrich/` is a pluggable provider interface (`EnrichmentProvider`) — RAWG and TMDb are the two providers today. A future AI-powered provider (semantic search, LLM-drafted reviews) can be added as a third file here without touching the API routes or admin UI.
+- The Prisma schema only uses provider-agnostic types (`String/Int/Float/Boolean/DateTime/Json`, `cuid()` ids) — switching `prisma/schema.prisma`'s `provider = "sqlite"` to `"postgresql"` and pointing `DATABASE_URL` at a Supabase connection string is the entire migration needed to go from local to hosted.
+- Uploaded images live under `public/uploads/{avatars,gallery,covers}` as plain files with the path stored as a string in the DB. This **will not persist on Vercel's ephemeral filesystem** — before actually deploying, swap `lib/uploads.ts`/`app/api/upload/route.ts`'s destination for S3 or Cloudflare R2 and return the bucket URL instead; no schema change is needed since those fields are already just `String` URLs.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Deployment (when you're ready to host)
+
+1. Create a free [Supabase](https://supabase.com) project, grab its Postgres connection string.
+2. In `prisma/schema.prisma`, change `provider = "sqlite"` to `"postgresql"`.
+3. Set `DATABASE_URL` to the Supabase connection string, run `npx prisma migrate deploy`.
+4. Swap local file uploads for S3/Cloudflare R2 (see note above).
+5. Push to GitHub, import into [Vercel](https://vercel.com/new), set the env vars from `.env.example` in the Vercel project settings.
+6. (Optional) point a custom domain from Namecheap/Cloudflare at the Vercel deployment.

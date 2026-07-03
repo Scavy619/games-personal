@@ -1,0 +1,152 @@
+// Prisma schema for Scavy B2
+// Provider-agnostic: only String/Int/Float/Boolean/DateTime/Json + cuid() ids are used,
+// so switching `provider = "sqlite"` -> "postgresql" later (for Supabase) needs no field changes.
+
+generator client {
+  provider = "prisma-client"
+  output   = "../lib/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Game {
+  id            String    @id @default(cuid())
+  name          String    @unique
+  platform      String // "pc" | "ps4" | "ps5"
+  genre         String
+  launcher      String
+  synopsis      String
+  metacritic    Int?
+  steam         Int?
+  steamLabel    String?
+  year          Int?
+  dev           String?
+  pub           String?
+  esrb          String?
+  coverUrl      String?
+  wallpaperUrl  String?
+  metacriticUrl String?
+  steamUrl      String?
+  youtubeUrl    String?
+  hltbUrl       String?
+  opencriticUrl String?
+  source        String    @default("manual") // "manual" | "import" | "rawg"
+  enrichedAt    DateTime?
+  extra         Json?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  @@index([platform])
+  @@index([genre])
+}
+
+model Movie {
+  id          String    @id @default(cuid())
+  title       String
+  genre       String?
+  rating      Int?
+  status      String    @default("watched") // "watched" | "watching" | "wishlist"
+  watchedDate DateTime?
+  review      String?
+  posterUrl   String?
+  tmdbRating  Float?
+  releaseYear Int?
+  overview    String?
+  source      String    @default("manual") // "manual" | "tmdb"
+  enrichedAt  DateTime?
+  extra       Json?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+model JournalEntry {
+  id        String   @id @default(cuid())
+  section   String // "comics" | "writing" | "journal"
+  title     String
+  body      String
+  issue     String?
+  status    String?
+  rating    Int?
+  isPrivate Boolean  @default(false)
+  extra     Json?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([section])
+}
+
+model SportsLog {
+  id        String   @id @default(cuid())
+  team      String
+  event     String?
+  score     String?
+  notes     String?
+  date      DateTime
+  extra     Json?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model ContactMessage {
+  id        String   @id @default(cuid())
+  name      String
+  email     String
+  message   String
+  isRead    Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+model ChatMessage {
+  id         String   @id @default(cuid())
+  authorName String   @default("Anonymous")
+  message    String
+  createdAt  DateTime @default(now())
+}
+
+model Profile {
+  id          String   @id @default(cuid())
+  displayName String
+  handle      String?
+  bio         String?
+  avatarUrl   String?
+  location    String?
+  occupation  String?
+  gamingSince Int?
+  favGenre    String?
+  nowPlaying  String?
+  extra       Json?
+  updatedAt   DateTime @updatedAt
+}
+
+model TimelineEvent {
+  id         String   @id @default(cuid())
+  year       Int
+  eventText  String
+  orderIndex Int      @default(0)
+  extra      Json?
+  createdAt  DateTime @default(now())
+}
+
+model GalleryPhoto {
+  id         String   @id @default(cuid())
+  imageUrl   String
+  caption    String?
+  orderIndex Int      @default(0)
+  createdAt  DateTime @default(now())
+}
+
+model InterestTag {
+  id         String @id @default(cuid())
+  label      String
+  icon       String?
+  orderIndex Int    @default(0)
+}
+
+model SocialLink {
+  id         String @id @default(cuid())
+  platform   String
+  url        String
+  orderIndex Int    @default(0)
+}
