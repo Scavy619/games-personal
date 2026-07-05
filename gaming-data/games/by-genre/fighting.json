@@ -1,0 +1,398 @@
+[
+  {
+    "id": "game-0079",
+    "name": "Tekken 8",
+    "platform": "ps5",
+    "genre": "Fighting",
+    "launcher": "PS5 Console",
+    "synopsis": "The eighth mainline entry in Bandai Namco's legendary 3D fighting franchise concludes the father-son conflict between Kazuya Mishima and Jin Kazama in a stunning cinematic campaign. The new Heat system adds aggressive offensive options that reward bold play, making matches feel more explosive than any previous entry. Its Arcade Quest story mode for new players and deep online tools make it the most complete Tekken package.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Bandai Namco Studios",
+      "publisher": "Bandai Namco",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0081",
+    "name": "Warhammer 40K: Space Marine 2",
+    "platform": "ps5",
+    "genre": "Fighting",
+    "launcher": "PS5 Console",
+    "synopsis": "Players step back into the boots of Ultramarines Captain Demetrian Titus fighting against an overwhelming Tyranid swarm invasion on a besieged Imperial world in a brutal third-person action game. The vicious melee and ranged combat loop has been refined to feel satisfying at scale — you can tear through hundreds of enemies. It launched to massive commercial and critical success in 2024 as one of the year's biggest surprises.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Saber Interactive",
+      "publisher": "Focus Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0096",
+    "name": "For Honor",
+    "platform": "ps4",
+    "genre": "Fighting",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Ubisoft's unique melee combat game pits Knights, Vikings and Samurai against each other in multiplayer battles built around the Art of Battle system — a directional guard stance mechanic where reading your opponent and timing strikes creates tense one-on-one duels. Its 4v4 team modes add objective capture to the melee depth. Six years of post-launch content added new heroes, factions and maps.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": 77,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0193",
+    "name": "DRAGON BALL XENOVERSE 2",
+    "platform": "pc",
+    "genre": "Fighting",
+    "launcher": "Steam",
+    "synopsis": "Players create a custom Saiyan, Namekian, Frieza Race or other character who travels through Dragon Ball history as a Time Patroller protecting the timeline from changes. The hub world, character customisation and skill system create a surprisingly deep action RPG wrapped around 3D arena fighting. Seven years of DLC have made it the most content-rich Dragon Ball game ever released.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Dimps",
+      "publisher": "Bandai Namco",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0245",
+    "name": "Injustice 2",
+    "platform": "pc",
+    "genre": "Fighting",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0270",
+    "name": "Mortal Kombat 11",
+    "platform": "pc",
+    "genre": "Fighting",
+    "launcher": "Steam",
+    "synopsis": "NetherRealm's most polished fighting game delivers a fan-service story mode where past and present versions of the entire MK roster clash through time manipulation, alongside some of the most technically intricate fighting mechanics in the franchise. Its extensive customisation system for moves and gear allows players to build personal versions of every fighter.",
+    "ratings": {
+      "metacritic": 86,
+      "steam": 77,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "NetherRealm Studios",
+      "publisher": "WB Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0304",
+    "name": "Sifu",
+    "platform": "pc",
+    "genre": "Fighting",
+    "launcher": "Steam",
+    "synopsis": "A third-person kung fu action game following a young martial artist on a revenge quest against five assassins who killed their father, aging with each death but never truly dying. Its combat system demands real mastery of parries, evades and chain attacks. On Platinum difficulty it is one of gaming's most demanding and rewarding skill-tests.",
+    "ratings": {
+      "metacritic": 81,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Sloclap",
+      "publisher": "Sloclap",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0312",
+    "name": "SOULCALIBUR VI",
+    "platform": "pc",
+    "genre": "Fighting",
+    "launcher": "Steam",
+    "synopsis": "The weapons-based fighting franchise returns to 1590 and retells the events of the original SoulCalibur with expanded lore and two new modes — Libra of Soul RPG and Soul Chronicle story campaigns. Geralt of Rivia from The Witcher is the standout guest character. Its Reversal Edge and Soul Charge mechanics create deeper defensive and offensive options.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 76,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Bandai Namco Studios",
+      "publisher": "Bandai Namco",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0326",
+    "name": "TEKKEN 7",
+    "platform": "pc",
+    "genre": "Fighting",
+    "launcher": "Steam",
+    "synopsis": "The seventh mainline entry concludes the saga of the Mishima blood war with a cinematic story mode revealing Kazuya's backstory and bringing the conflict to a brutal conclusion. Its Rage Drive and Rage Art mechanics create dramatic comeback potential. Guest characters including Noctis and Geese Howard were controversial but kept the roster discussions lively.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 81,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Bandai Namco Studios",
+      "publisher": "Bandai Namco",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0439",
+    "name": "Mortal Kombat 1",
+    "platform": "ps5",
+    "genre": "Fighting",
+    "launcher": "PS5 Console",
+    "synopsis": "A timeline reset following Liu Kang's creation of a new era, Mortal Kombat 1 redesigns the franchise's iconic characters as variants shaped by Liu Kang's new history. The Kameo Fighter system — choosing an assist character — adds unprecedented combo extension options. Its cinematic story mode is the best in the franchise's history, and the roster covers returning favourites and notable new faces.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "NetherRealm Studios",
+      "publisher": "WB Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0553",
+    "name": "Dragon Ball Xenoverse",
+    "platform": "ps4",
+    "genre": "Fighting",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Players create a custom Saiyan, Namekian, Frieza Race or other character who travels through Dragon Ball history as a Time Patroller protecting the timeline from changes. The hub world, character customisation and skill system create a surprisingly deep action RPG wrapped around 3D arena fighting. Seven years of DLC have made it the most content-rich Dragon Ball game ever released.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Dimps",
+      "publisher": "Bandai Namco",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0592",
+    "name": "Granblue Fantasy: Versus",
+    "platform": "ps4",
+    "genre": "Fighting",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0650",
+    "name": "Mortal Kombat X",
+    "platform": "ps4",
+    "genre": "Fighting",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0654",
+    "name": "MY HERO ONE'S JUSTICE 2",
+    "platform": "ps4",
+    "genre": "Fighting",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0656",
+    "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+    "platform": "ps4",
+    "genre": "Fighting",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0657",
+    "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
+    "platform": "ps4",
+    "genre": "Fighting",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0720",
+    "name": "STREET FIGHTER V",
+    "platform": "ps4",
+    "genre": "Fighting",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0731",
+    "name": "Tekken 6",
+    "platform": "ps4",
+    "genre": "Fighting",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

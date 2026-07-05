@@ -1,0 +1,2334 @@
+[
+  {
+    "id": "game-0056",
+    "name": "Alan Wake II",
+    "platform": "ps5",
+    "genre": "Survival Horror",
+    "launcher": "PS5 Console",
+    "synopsis": "Remedy Entertainment's long-awaited sequel sends troubled writer Alan Wake deeper into the Dark Place while FBI agent Saga Anderson investigates ritual murders in a Pacific Northwest logging town. The game blends psychological horror, metafictional storytelling, and live-action cutscenes into an experience unlike anything else in gaming. It won numerous Game of the Year awards and is Remedy's masterpiece.",
+    "ratings": {
+      "metacritic": 89,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Remedy Entertainment",
+      "publisher": "Epic Games Publishing",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0057",
+    "name": "Assassin's Creed Mirage",
+    "platform": "ps5",
+    "genre": "Open World",
+    "launcher": "PS5 Console",
+    "synopsis": "A deliberate return to the series' roots, following Basim Ibn Ishaq's origins in 9th century Baghdad as he transitions from street thief to Hidden One master assassin. The game strips back RPG bloat to focus on stealth, parkour and assassination contracts in a beautifully realised Abbasid Caliphate city. Its compact 20-hour length was praised as a refreshing course correction for the franchise.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Ubisoft Bordeaux",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0058",
+    "name": "Astro Bot",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "Team Asobi's joyful 3D platformer sends the PS5's mascot robot on a galaxy-spanning rescue mission to recover scattered PlayStation crew members, with over 150 PlayStation character cameos hidden across imaginative worlds. Its genius use of the DualSense controller — rain on the touchpad, trigger tension, speaker whispers — makes it a showcase for the hardware. It swept 2024 Game of the Year awards.",
+    "ratings": {
+      "metacritic": 94,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Team Asobi",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0059",
+    "name": "Astro's Playroom",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "The pre-installed PS5 launch title is a love letter to PlayStation history, sending Astro Bot through CPU Plaza and four worlds themed around PS5 components, each stuffed with references to 30 years of PlayStation games and hardware. Every feature of the DualSense controller is demonstrated through ingenious level design. It is free, short, and considered one of the best games available on PS5.",
+    "ratings": {
+      "metacritic": 83,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Team Asobi",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0060",
+    "name": "Avatar: Frontiers of Pandora",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Set in the Western Frontier of Pandora, players take the role of a Na'vi raised by the RDA who must reconnect with their culture and fight back against the corporation's exploitation. Massive Entertainment's first-person open world is visually stunning with bioluminescent environments and flying banshee traversal. The story and gameplay mechanics received more mixed reviews than its extraordinary visuals.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Massive Entertainment",
+      "publisher": "Ubisoft",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0061",
+    "name": "Battlefield 2042",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Set in a near-future world destabilised by climate collapse, 2042 launched with 128-player battles on giant maps, specialist operators and a portal mode revisiting classic Battlefield games. Its disastrous launch — missing a campaign, scoreboards, and basic features — became infamous. Post-launch updates added the missing features and significantly improved reception over time.",
+    "ratings": {
+      "metacritic": 68,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "DICE",
+      "publisher": "EA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0062",
+    "name": "CoD: Modern Warfare II",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "A sequel to the 2019 reboot following Task Force 141 across a global manhunt involving a Mexican cartel, a rogue Iranian general and stolen US ballistic missiles. The campaign is one of the most cinematic and varied in Call of Duty history, while the multiplayer introduced new mechanics like vehicle-based modes and improved map design. It became the fastest-selling CoD game at launch.",
+    "ratings": {
+      "metacritic": 77,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Infinity Ward",
+      "publisher": "Activision",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0063",
+    "name": "Cyberpunk 2077",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "CD Projekt Red's epic open-world action RPG set in the mega-city Night City follows mercenary V, who gets a legendary terrorist's memories implanted in their head and has weeks to live. After its catastrophically broken 2020 launch, the 2.0 update and Phantom Liberty expansion transformed it into one of the finest RPGs of the decade. The redemption arc is gaming legend.",
+    "ratings": {
+      "metacritic": 86,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt Red",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0064",
+    "name": "Dave the Diver",
+    "platform": "ps5",
+    "genre": "Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "A charming hybrid of deep-sea diving roguelite and sushi restaurant management sim, where players dive the mysterious Blue Hole during the day catching fish and uncovering an ancient ocean civilisation, then serve them to customers at night. Its tonal range is extraordinary — whimsical management comedy giving way to genuinely emotional narrative beats. It sold over 3 million copies.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "MINTROCKET",
+      "publisher": "Nexon",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0065",
+    "name": "Death Stranding Director's Cut",
+    "platform": "ps5",
+    "genre": "Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "Hideo Kojima's meditation on connection sees Sam Porter Bridges traversing a shattered post-apocalyptic America making deliveries and linking isolated settlements via a persistent multiplayer road network. The Director's Cut adds new cargo catapults, a racetrack, buddy bot AI and story content alongside PS5 DualSense enhancements. Its themes of isolation and human connection hit differently post-pandemic.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Kojima Productions",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0066",
+    "name": "EA Sports UFC 5",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "The most realistic UFC simulation ever made featuring a complete revamp of the submission and ground game systems, 300 fighters including every current champion, and the Frostbite engine rendering sweat, blood and damage in unprecedented detail. The Real Impact System models cumulative injury that affects how fighters move and absorb damage over multiple rounds. Online ranked modes are extremely competitive.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "EA Vancouver",
+      "publisher": "EA Sports",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0067",
+    "name": "Final Fantasy XVI",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "A darker and more mature Final Fantasy set in the medieval world of Valisthea where giant crystal Mothercrystals power civilisations and nations war over their control. Lead character Clive Rosfield is a man on a revenge quest across decades, fighting with a fluid action combat system powered by stolen Eikon abilities. It draws heavily from Game of Thrones-style political intrigue.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Creative Business Unit III",
+      "publisher": "Square Enix",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0068",
+    "name": "Forza Horizon 5",
+    "platform": "ps5",
+    "genre": "Racing",
+    "launcher": "PS5 Console",
+    "synopsis": "Playground Games' open-world racing game set in a stunning recreation of Mexico featuring over 500 cars, dynamic seasons that change the world weekly, and the most diverse biome variety in the series — jungles, deserts, volcanoes and colonial cities. Its Horizon Arcade events, barn finds, and Horizon Story chapters give racing game fans hundreds of hours of content. It launched to near-perfect reviews.",
+    "ratings": {
+      "metacritic": 92,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Playground Games",
+      "publisher": "Xbox Game Studios",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0069",
+    "name": "God of War: Ragnarök",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "Kratos and Atreus journey across the Nine Realms as Fimbulwinter descends and Ragnarök draws near, forcing them to confront gods, giants and their own complicated relationship. Santa Monica Studio expanded every system from the 2018 game with more weapons, bigger worlds and more complex combat, while delivering a narrative that rivals prestige television. It won multiple Game of the Year awards.",
+    "ratings": {
+      "metacritic": 94,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Santa Monica Studio",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0070",
+    "name": "Grand Theft Auto V",
+    "platform": "ps5",
+    "genre": "Open World",
+    "launcher": "PS5 Console",
+    "synopsis": "The expanded and enhanced PS5 version of Rockstar's record-breaking 2013 open-world crime game featuring three protagonists — Michael, Trevor and Franklin — whose heist-driven story interweaves across a massive Los Santos and Blaine County recreation of Los Angeles. The PS5 version adds DualSense haptics, 4K visuals and ray-tracing alongside the still-thriving GTA Online. It remains one of the best-selling games of all time.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0071",
+    "name": "Hell Let Loose",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "A hardcore WWII team multiplayer shooter for 100 players demanding real communication, tactical coordination and role discipline across authentic historical battles including Omaha Beach, Kursk and the Battle of the Bulge. Supply lines, artillery coordination and officer commands create emergent military tactics unlike any other shooter. Its learning curve is steep but the payoff is extraordinary immersion.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Black Matter",
+      "publisher": "Team17",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0072",
+    "name": "Kingdom Come: Deliverance II",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The sequel to Warhorse's beloved medieval RPG continues Henry of Skalitz's story in 15th century Bohemia with a larger world, improved combat, better stealth and the same commitment to historical authenticity — no magic, no fantasy, just real medieval life. Players navigate court politics, bandit raids and a civil war with Henry's growing reputation as the main character arc. Launched to critical acclaim in 2025.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2025,
+      "developer": "Warhorse Studios",
+      "publisher": "Deep Silver",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0073",
+    "name": "Like a Dragon: Infinite Wealth",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The ninth mainline entry in the Yakuza/Like a Dragon series follows both Ichiban Kasuga and Kiryu Kazuma across a massive adventure set in Hawaii, featuring a turn-based combat system where jobs and abilities are customised freely. The game's extraordinary writing balances outrageous comedy — jobs include being a barista and a streamer — with deeply emotional storylines about legacy, mortality and friendship.",
+    "ratings": {
+      "metacritic": 92,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Ryu Ga Gotoku Studio",
+      "publisher": "SEGA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0074",
+    "name": "Like a Dragon: Ishin!",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "A remake of the 2014 Japan-exclusive Yakuza spin-off transposing the franchise's cast into Bakumatsu-era Japan, with Kiryu-alike Sakamoto Ryoma investigating a conspiracy within the Shinsengumi. The game blends real-time brawler combat with turn-based card battles and a deep substory system set against the backdrop of Japan's most romanticised historical period. Previously unavailable in the West until this 2023 remake.",
+    "ratings": {
+      "metacritic": 77,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Ryu Ga Gotoku Studio",
+      "publisher": "SEGA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0075",
+    "name": "Marvel's Spider-Man Remastered",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "Insomniac Games' spectacular PS5 remaster of their 2018 Spider-Man game features rebuilt character models, ray-traced reflections, SSD-powered instant loading and DualSense haptic feedback across the full game and all three DLC chapters. Peter Parker juggles life, relationships and his superhero duties while hunting the Sinister Six through a stunning recreation of New York City. It remains the gold standard of superhero video games.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Insomniac Games",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0076",
+    "name": "No Man's Sky",
+    "platform": "ps5",
+    "genre": "Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "Hello Games' once-infamous space exploration survival game has received over 25 major free updates since its 2016 launch, transforming it into one of gaming's greatest redemption stories with base building, multiplayer, VR support and underwater exploration. The PS5 version runs at 60fps with ray-tracing across procedurally generated alien biomes. Its community is among gaming's most welcoming.",
+    "ratings": {
+      "metacritic": 73,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Hello Games",
+      "publisher": "Hello Games",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0077",
+    "name": "Ratchet & Clank: Rift Apart",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "Insomniac's showcase PS5 exclusive has Ratchet and new lombax heroine Rivet hopping between parallel dimensions using the console's SSD to load entirely different worlds in under a second. Its weapon variety — with returning favourites and new dimensional tools — is the best in the series, while the visuals are so detailed they were mistaken for CGI in early reveals. It is the definitive PS5 first-party exclusive.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Insomniac Games",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0078",
+    "name": "Tales of Arise",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The 17th mainline Tales game follows Alphen, an amnesiac slave from the occupied planet Dahna, and Shionne, an oppressor from Rena, as they join forces to liberate their worlds from a centuries-old system of exploitation. Its anime-inspired art style, Boost Strike combo system and deeply human character writing elevated it above typical JRPG storytelling. It sold over 2 million copies.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Bandai Namco Studios",
+      "publisher": "Bandai Namco",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0079",
+    "name": "Tekken 8",
+    "platform": "ps5",
+    "genre": "Fighting",
+    "launcher": "PS5 Console",
+    "synopsis": "The eighth mainline entry in Bandai Namco's legendary 3D fighting franchise concludes the father-son conflict between Kazuya Mishima and Jin Kazama in a stunning cinematic campaign. The new Heat system adds aggressive offensive options that reward bold play, making matches feel more explosive than any previous entry. Its Arcade Quest story mode for new players and deep online tools make it the most complete Tekken package.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Bandai Namco Studios",
+      "publisher": "Bandai Namco",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0080",
+    "name": "The Last of Us Part I",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Naughty Dog's ground-up PS5 remake of their 2013 masterpiece follows Joel, a hardened survivor, escorting teenager Ellie across a post-pandemic America populated by clickers and desperate humans. The rebuilt visuals run at native 4K/60fps with DualSense haptics, while the AI, animations and accessibility options have all been substantially upgraded. It remains one of the most emotionally powerful narratives in gaming.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Naughty Dog",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0081",
+    "name": "Warhammer 40K: Space Marine 2",
+    "platform": "ps5",
+    "genre": "Fighting",
+    "launcher": "PS5 Console",
+    "synopsis": "Players step back into the boots of Ultramarines Captain Demetrian Titus fighting against an overwhelming Tyranid swarm invasion on a besieged Imperial world in a brutal third-person action game. The vicious melee and ranged combat loop has been refined to feel satisfying at scale — you can tear through hundreds of enemies. It launched to massive commercial and critical success in 2024 as one of the year's biggest surprises.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Saber Interactive",
+      "publisher": "Focus Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0082",
+    "name": "Coral Island",
+    "platform": "ps5",
+    "genre": "Simulation",
+    "launcher": "PS5 Console",
+    "synopsis": "A tropical farming sim and life RPG set on a lush island whose coral reef is threatened by pollution, blending Stardew Valley's farm management loop with ocean conservation themes and a diverse cast of romance-able villagers. The Southeast Asian setting and inclusive representation are a distinctive feature. The full launch added extensive content to earlier well-received versions.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Stairway Games",
+      "publisher": "Fireshine Games",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0083",
+    "name": "Hot Wheels Unleashed 2",
+    "platform": "ps5",
+    "genre": "Racing",
+    "launcher": "PS5 Console",
+    "synopsis": "The sequel to the surprise hit Hot Wheels racer expands from 1:64 scale tracks to outdoor environments including woods, university campuses and farmlands, with 130 vehicle classes including motorcycles and ATVs. Its track builder tools let players create and share courses. The tone remains delightfully unserious — you can race as a Hot Dog car against a T-Rex skeleton.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Milestone S.r.l.",
+      "publisher": "Milestone S.r.l.",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0084",
+    "name": "Cricket 26",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "The latest entry in Big Ant Studios' cricket simulation series featuring all major international tournaments, updated player rosters, an improved batting and bowling engine, and the deepest career mode in the franchise. Its photo-realistic player likenesses and dynamic commentary system make it the most authentic cricket game available. Career mode spans grassroots club cricket all the way to international captaincy.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2025,
+      "developer": "Big Ant Studios",
+      "publisher": "Big Ant Studios",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0085",
+    "name": "EA Sports FC 26",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "EA's football franchise continues under its own brand with HyperMotion3 animation technology, updated player ratings, new Rush 5v5 mode enhancements, and the deepest Ultimate Team content calendar yet. The game features every major licensed league and tournament including the Premier League, La Liga, UEFA Champions League and the World Cup. Career mode and Pro Clubs received significant depth improvements.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2025,
+      "developer": "EA Vancouver",
+      "publisher": "EA Sports",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0086",
+    "name": "Crimson Desert",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "Pearl Abyss's action RPG spin-off from Black Desert Online follows mercenary captain Macduff across a vast open world of war-torn kingdoms, featuring visceral melee combat inspired by From Software games mixed with the developer's signature world-building. Its combat system rewards precise parrying and countering with brutal finishers. Released after multiple delays to strong reception in late 2024.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Pearl Abyss",
+      "publisher": "Pearl Abyss",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0398",
+    "name": "A Plague Tale: Requiem",
+    "platform": "ps5",
+    "genre": "Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "Amicia and Hugo de Runa continue their desperate journey across a sun-drenched southern France, with Hugo's curse growing stronger and more dangerous as the rat plague follows wherever they go. Its rat swarm mechanics scale to terrifying proportions and the emotional sibling story reaches devastating conclusions. Visually it stands among the most beautiful games of its generation.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Asobo Studio",
+      "publisher": "Focus Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0399",
+    "name": "Abiotic Factor",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0400",
+    "name": "Agent Intercept",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0401",
+    "name": "Alan Wake 2",
+    "platform": "ps5",
+    "genre": "Survival Horror",
+    "launcher": "PS5 Console",
+    "synopsis": "Remedy's genre-defining survival horror sequel follows both FBI agent Saga Anderson investigating ritual murders in Bright Falls and Alan Wake himself trapped in the Dark Place — a nightmarish version of New York where fiction becomes reality. Its live-action sequences, layered metafiction and stunning visuals represent the most artistically ambitious game Remedy has ever produced.",
+    "ratings": {
+      "metacritic": 89,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Remedy Entertainment",
+      "publisher": "Epic Games Publishing",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0402",
+    "name": "Aliens: Fireteam Elite (PS5)",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0403",
+    "name": "Anno 1800 Console Edition",
+    "platform": "ps5",
+    "genre": "Simulation",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0404",
+    "name": "Atlas Fallen",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0405",
+    "name": "Balatro",
+    "platform": "ps5",
+    "genre": "RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "A poker-based roguelite where players build increasingly broken card hands and joker combinations to beat rising blind targets. Its deceptively simple rules mask extraordinary strategic depth — players discover game-breaking synergies that make each run feel like discovering a cheat code. It was the most talked-about indie release of 2024 and became a genuine cultural moment.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "LocalThunk",
+      "publisher": "Playstack",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0406",
+    "name": "Banishers: Ghosts of New Eden",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "Ghost hunters Antea Duarte and Red mac Raith arrive in colonial New England to banish a terrible haunting but find their mission complicated when Antea herself becomes a ghost. Players switch between living and ghost gameplay as they investigate five haunting cases, with moral choices determining whether Antea can return to the living. A touching supernatural love story.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Don't Nod",
+      "publisher": "Focus Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0407",
+    "name": "Blocky Farm",
+    "platform": "ps5",
+    "genre": "Simulation",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0408",
+    "name": "Borderlands 3",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "The four Vault Hunters face the Calypso Twins — streaming influencer cult leaders — across Pandora, Promethea, Eden-6 and Athenas in a campaign of spectacular gunplay chaos. With over a billion procedurally generated guns, a genuinely improved story over previous entries and four radically different character builds, it delivered exactly what fans expected from the series.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Gearbox Software",
+      "publisher": "2K Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0409",
+    "name": "Call of Duty: Black Ops III",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0410",
+    "name": "Crash Bandicoot 4: It's About Time",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "A direct sequel to Crash Bandicoot 3: Warped following Crash and Coco acquiring reality-altering Quantum Masks that modify the environment and physics. Its brutally challenging N.Verted and N.Sanely Perfect relic time trials demand mastery of every mechanic. Visually stunning and mechanically tight, it's the finest 3D Crash since the Naughty Dog originals.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Toys for Bob",
+      "publisher": "Activision",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0411",
+    "name": "Destruction AllStars",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0412",
+    "name": "Diablo IV",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The fourth mainline entry in Blizzard's seminal ARPG franchise takes a darker, more gothic tone as five playable classes battle the demon lord Lilith in a massive open world Sanctuary. Its seasonal content model has delivered substantial post-launch stories and mechanics. The endgame at launch was criticised but Season of the Malignant substantially improved the experience.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Blizzard Entertainment",
+      "publisher": "Blizzard Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0413",
+    "name": "Divine Knockout",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0414",
+    "name": "EA SPORTS WRC",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0415",
+    "name": "ENDLESS Dungeon",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0416",
+    "name": "Expeditions: A Mudrunner Game",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0417",
+    "name": "F1 23",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0418",
+    "name": "Farming Simulator 25",
+    "platform": "ps5",
+    "genre": "Simulation",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0419",
+    "name": "FBC Firebreak",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0420",
+    "name": "FINAL FANTASY VII REMAKE",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0421",
+    "name": "FOAMSTARS",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0422",
+    "name": "Ghost of Tsushima Director's Cut",
+    "platform": "ps5",
+    "genre": "Open World",
+    "launcher": "PS5 Console",
+    "synopsis": "The Director's Cut of Sucker Punch's samurai epic adds the Iki Island expansion with a new story confronting Jin Sakai's past trauma and spiritual healing. The expanded Director's Cut includes Legends multiplayer, new accessibility options and the stunning PS5 enhancements — 60fps, haptic feedback for every sword strike, and jaw-dropping load times.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Sucker Punch Productions",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0423",
+    "name": "Ghostwire: Tokyo",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "Virtually all of Tokyo's population has vanished and supernatural Visitors stalk the rain-slicked streets. Akito Inui — partially possessed by a spirit hunter called KK — explores a meticulously recreated Tokyo using weaving spells called Ethereal Weaving to exorcise these spectres. Its folklore-rich world and unique combat make it one of the most distinctive games on PS5.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Tango Gameworks",
+      "publisher": "Bethesda",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0424",
+    "name": "God of War Ragnarok",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "Kratos and Atreus journey across the Nine Realms as Fimbulwinter descends and Ragnarök draws near. Santa Monica expanded every system from 2018 with more weapons, bigger worlds and more complex combat while delivering a narrative that rivals prestige television. Freya's arc, the Atreus chapters and Brok's story are among the most emotionally resonant in any game.",
+    "ratings": {
+      "metacritic": 94,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Santa Monica Studio",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0425",
+    "name": "GRID Legends",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0426",
+    "name": "GRIS",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0427",
+    "name": "Harold Halibut",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0428",
+    "name": "Horizon Zero Dawn Remastered",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "A comprehensive remaster of Guerrilla's 2017 open-world masterpiece featuring fully rebuilt character models, upgraded environments, enhanced motion capture for all dialogue scenes and PS5 DualSense integration. Aloy's journey to uncover the truth behind Earth's mechanical creatures and her own origins remains one of gaming's most satisfying mysteries. Essential for newcomers to the series.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Nixxes Software / Guerrilla Games",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0429",
+    "name": "Immortals of Aveum",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0430",
+    "name": "Indika",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0431",
+    "name": "LEGO 2K Drive",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0432",
+    "name": "LEGO Horizon Adventures",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0433",
+    "name": "LEGO Star Wars: The Skywalker Saga",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0434",
+    "name": "Life is Strange: Double Exposure",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0435",
+    "name": "Marvel's Spider-Man 2",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "Both Peter Parker and Miles Morales share the screen as protagonists across a massive expanded New York City adding Queens and Brooklyn, facing Kraven the Hunter and the symbiote invasion that brings Venom into a devastating personal conflict with Peter. Its web-swing traversal system, switching between heroes and spectacular set-pieces make it the definitive superhero game experience.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Insomniac Games",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0436",
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Miles Morales takes over from Peter Parker to protect a gentrifying Harlem in an intimate Christmas-set story about community, family and discovering his own powers — including bio-electric Venom blasts and invisibility. Its 7-hour campaign is tightly focused and emotionally resonant in ways the original didn't always achieve. The PS5 version runs at 60fps with ray-traced reflections.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Insomniac Games",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0437",
+    "name": "Metal Eden",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0438",
+    "name": "MONOPOLY",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0439",
+    "name": "Mortal Kombat 1",
+    "platform": "ps5",
+    "genre": "Fighting",
+    "launcher": "PS5 Console",
+    "synopsis": "A timeline reset following Liu Kang's creation of a new era, Mortal Kombat 1 redesigns the franchise's iconic characters as variants shaped by Liu Kang's new history. The Kameo Fighter system — choosing an assist character — adds unprecedented combo extension options. Its cinematic story mode is the best in the franchise's history, and the roster covers returning favourites and notable new faces.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "NetherRealm Studios",
+      "publisher": "WB Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0440",
+    "name": "NBA 2K23",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0441",
+    "name": "NBA 2K25",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0442",
+    "name": "Nioh 2 Remastered",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The complete remaster of Team Ninja's supernatural samurai RPG set in Sengoku-era Japan, following half-spirit warrior Hide navigating yokai-infested battlefields. The Remaster includes all three DLC expansions — The Tengu's Disciple, Darkness in the Capital and The First Samurai — and runs at 60fps with 4K support on PS5. Its combat is among the most demanding and satisfying in the genre.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Team Ninja",
+      "publisher": "Koei Tecmo",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0443",
+    "name": "Persona 5 Tactica",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The Phantom Thieves are transported to a parallel feudal world dominated by a revolutionary army and must fight to escape using a new tactical grid-based combat system with triple-action turns, unique character abilities and enemy envelopment mechanics. Its story provides new insight into each Thief's motivations. Designed as an accessible entry point for tactical RPG newcomers.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "P-Studio",
+      "publisher": "Atlus",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0444",
+    "name": "PowerWash Simulator",
+    "platform": "ps5",
+    "genre": "Simulation",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0445",
+    "name": "Prince of Persia: The Lost Crown",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "A 2.5D Metroidvania set in the mythical Mount Qaf where elite warrior Sargon searches for the kidnapped Prince Ghassan, gaining time manipulation powers to navigate corrupted timelines. Developed by Ubisoft's classic platformer studio, it revived the Prince of Persia brand with universal acclaim. Its challenge modes, Speedrunner optimisation and new Persian hero are highlights.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Ubisoft Montpellier",
+      "publisher": "Ubisoft",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0446",
+    "name": "Rain World",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0447",
+    "name": "Returnal",
+    "platform": "ps5",
+    "genre": "Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Selene Vassos crashes on the planet Atropos and finds herself trapped in a time loop, dying and restarting — but retaining memories of her previous cycles. Its bullet-hell combat, alien world exploration and Lynchian psychological horror narrative make it one of PS5's most demanding and distinctive experiences. The DualSense implementation — adaptive triggers for each weapon — is extraordinary.",
+    "ratings": {
+      "metacritic": 86,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Housemarque",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0448",
+    "name": "Risk of Rain 2",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0449",
+    "name": "S.T.A.L.K.E.R.: Call of Prypiat",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0450",
+    "name": "S.T.A.L.K.E.R.: Clear Sky",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0451",
+    "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0452",
+    "name": "Sackboy: A Big Adventure",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "Sumo Digital's delightful 3D platformer follows Sackboy on a journey through Craftworld to defeat the evil Vex, featuring extraordinarily tactile fabric-and-craft aesthetics and joyful co-op for up to four players. Its level design references classic platform games while feeling distinctly its own. The music levels — synced to licensed songs including Uptown Funk — are exceptional highlights.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Sumo Digital",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0453",
+    "name": "SONIC X SHADOW GENERATIONS",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0454",
+    "name": "Spellfarers",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0455",
+    "name": "Star Wars Outlaws",
+    "platform": "ps5",
+    "genre": "Open World",
+    "launcher": "PS5 Console",
+    "synopsis": "The first open-world Star Wars game follows scoundrel Kay Vess and her creature companion Nix across multiple planets between Empire Strikes Back and Return of the Jedi, running heists for criminal syndicates. Its faction reputation system and seamless space travel between worlds create the most authentic Star Wars adventure outside the films. Speeder bike traversal and stealth sequences are highlights.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Massive Entertainment",
+      "publisher": "Ubisoft",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0456",
+    "name": "Stellaris: Console Edition",
+    "platform": "ps5",
+    "genre": "Strategy",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0457",
+    "name": "Sword Of The Sea",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0458",
+    "name": "Terminator: Resistance Enhanced",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0459",
+    "name": "The Elder Scrolls Online",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0460",
+    "name": "The Exit 8",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0461",
+    "name": "The Invincible",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0462",
+    "name": "The Last of Us Part II Remastered",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "The definitive version of Naughty Dog's controversial masterpiece adds No Return — a roguelike survival mode with unique scenarios and character-specific runs — alongside behind-the-scenes commentary, guitar free play and multiple new accessibility options. The 60fps and haptic DualSense implementation transforms the combat experience. Its central story remains one of gaming's most divisive and powerful narratives.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Naughty Dog",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0463",
+    "name": "The Rogue Prince of Persia",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0464",
+    "name": "The Thaumaturge",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0465",
+    "name": "Tom Clancy's Rainbow Six Extraction",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0466",
+    "name": "Tony Hawk's Pro Skater 1+2",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "Vicarious Visions' faithful ground-up recreation of the first two Tony Hawk games recreates every original level and trick system with spectacular modern visuals. The nostalgia of landing perfect runs in Warehouse or School II is fully preserved. Online multiplayer brings competitive skating to a whole new generation of players worldwide.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Vicarious Visions",
+      "publisher": "Activision",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0467",
+    "name": "Tunic",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "A tiny fox in a mysterious land must uncover the secrets of an ancient civilisation guided only by pages of an in-game instruction manual written in an alien language that players must themselves decipher. Its Zelda-inspired exploration, tough combat and meta-puzzle design create one of the most clever and rewarding adventure games ever made.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 93,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Andrew Shouldice",
+      "publisher": "Finji",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0468",
+    "name": "Uncharted: Legacy of Thieves Collection",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "The PS5 remaster of Uncharted 4: A Thief's End and Uncharted: The Lost Legacy, running at 60fps with enhanced textures and new accessibility options. Drake's final adventure across the search for Libertalia and Chloe Frazer's standalone Hoysala Empire story are both among the finest cinematic action-adventure games in the medium. The PC version arrived on Steam in 2022.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": 84,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Naughty Dog / Iron Galaxy",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0469",
+    "name": "Warhammer 40000: Boltgun",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "A retro boomer shooter set in the 40K universe following Space Marine Malum Caedo through the Forge World of Graia at breakneck speed, slaughtering Chaos Space Marines and daemonic forces with a glorious arsenal from the bolter to the power sword. Its pixel-art-inspired aesthetic perfectly captures both old-school shooter design and Warhammer's grimdark aesthetic.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Auroch Digital",
+      "publisher": "Focus Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0470",
+    "name": "Warhammer 40000: Darktide",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Fatshark's Warhammer 40K version of Vermintide featuring four Rejects fighting through the Chaos-infested hive city of Tertium. Its shooting, melee and class customisation feel premium. The game's troubled launch saw significant features missing at release, but post-launch updates have transformed it into the definitive co-op 40K experience. The Imperial Guard Veteran and Psyker classes are particularly satisfying.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Fatshark",
+      "publisher": "Fatshark",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0471",
+    "name": "Weird West",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "A dark fantasy reimagining of the American West follows five interconnected protagonists — a bounty hunter, pig man, werewolf, and more — through a world where sirens, wendigos and fallen angels haunt the frontier. WolfEye's immersive sim approach lets players approach every situation with emergent solutions. The interconnected narratives create a sense of a breathing world.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "WolfEye Studios",
+      "publisher": "Devolver Digital",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0472",
+    "name": "WUCHANG: Fallen Feathers",
+    "platform": "ps5",
+    "genre": "Action-Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

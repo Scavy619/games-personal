@@ -1,0 +1,244 @@
+[
+  {
+    "id": "game-0033",
+    "name": "Psychonauts 2",
+    "platform": "pc",
+    "genre": "Platformer",
+    "launcher": "Steam",
+    "synopsis": "Tim Schafer's long-awaited sequel follows psychic spy Razputin Aquato infiltrating the minds of troubled Psychonauts agents, each with a mental world that visualises their trauma, phobias and memories as platforming levels of extraordinary imagination. It won multiple awards for its empathetic portrayal of mental health and is one of the most acclaimed platformers of the decade.",
+    "ratings": {
+      "metacritic": 89,
+      "steam": 97,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Double Fine Productions",
+      "publisher": "Xbox Game Studios",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0058",
+    "name": "Astro Bot",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "Team Asobi's joyful 3D platformer sends the PS5's mascot robot on a galaxy-spanning rescue mission to recover scattered PlayStation crew members, with over 150 PlayStation character cameos hidden across imaginative worlds. Its genius use of the DualSense controller — rain on the touchpad, trigger tension, speaker whispers — makes it a showcase for the hardware. It swept 2024 Game of the Year awards.",
+    "ratings": {
+      "metacritic": 94,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Team Asobi",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0059",
+    "name": "Astro's Playroom",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "The pre-installed PS5 launch title is a love letter to PlayStation history, sending Astro Bot through CPU Plaza and four worlds themed around PS5 components, each stuffed with references to 30 years of PlayStation games and hardware. Every feature of the DualSense controller is demonstrated through ingenious level design. It is free, short, and considered one of the best games available on PS5.",
+    "ratings": {
+      "metacritic": 83,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Team Asobi",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0077",
+    "name": "Ratchet & Clank: Rift Apart",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "Insomniac's showcase PS5 exclusive has Ratchet and new lombax heroine Rivet hopping between parallel dimensions using the console's SSD to load entirely different worlds in under a second. Its weapon variety — with returning favourites and new dimensional tools — is the best in the series, while the visuals are so detailed they were mistaken for CGI in early reveals. It is the definitive PS5 first-party exclusive.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Insomniac Games",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0410",
+    "name": "Crash Bandicoot 4: It's About Time",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "A direct sequel to Crash Bandicoot 3: Warped following Crash and Coco acquiring reality-altering Quantum Masks that modify the environment and physics. Its brutally challenging N.Verted and N.Sanely Perfect relic time trials demand mastery of every mechanic. Visually stunning and mechanically tight, it's the finest 3D Crash since the Naughty Dog originals.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Toys for Bob",
+      "publisher": "Activision",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0445",
+    "name": "Prince of Persia: The Lost Crown",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "A 2.5D Metroidvania set in the mythical Mount Qaf where elite warrior Sargon searches for the kidnapped Prince Ghassan, gaining time manipulation powers to navigate corrupted timelines. Developed by Ubisoft's classic platformer studio, it revived the Prince of Persia brand with universal acclaim. Its challenge modes, Speedrunner optimisation and new Persian hero are highlights.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Ubisoft Montpellier",
+      "publisher": "Ubisoft",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0452",
+    "name": "Sackboy: A Big Adventure",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "Sumo Digital's delightful 3D platformer follows Sackboy on a journey through Craftworld to defeat the evil Vex, featuring extraordinarily tactile fabric-and-craft aesthetics and joyful co-op for up to four players. Its level design references classic platform games while feeling distinctly its own. The music levels — synced to licensed songs including Uptown Funk — are exceptional highlights.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Sumo Digital",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0453",
+    "name": "SONIC X SHADOW GENERATIONS",
+    "platform": "ps5",
+    "genre": "Platformer",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0499",
+    "name": "ASTRO BOT Rescue Mission",
+    "platform": "ps4",
+    "genre": "Platformer",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0629",
+    "name": "Little Nightmares",
+    "platform": "ps4",
+    "genre": "Platformer",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0630",
+    "name": "Little Nightmares II",
+    "platform": "ps4",
+    "genre": "Platformer",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "comment": "Template for batch game enhancement. Copy and modify this file.",
+    "example": true,
+    "id": "game-0001",
+    "updates": {
+      "coverUrl": "https://example.com/covers/game-name.jpg",
+      "wallpaperUrl": "https://example.com/wallpapers/game-name-1920x1080.jpg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    "status": "enriched"
+  },
+  {
+    "comment": "Add custom fields for additional metadata",
+    "id": "game-0002",
+    "updates": {
+      "customFields": {
+        "playTime": "150 hours",
+        "personalRating": 9,
+        "recommendation": "Absolutely must play",
+        "replayValue": "Very High",
+        "completionPercentage": 95
+      }
+    },
+    "status": "enriched"
+  },
+  {
+    "comment": "Update multiple fields at once",
+    "id": "game-0003",
+    "updates": {
+      "coverUrl": "https://example.com/covers/new-cover.jpg",
+      "youtubeUrl": "https://youtube.com/watch?v=...",
+      "hltbUrl": "https://howlongtobeat.com/game/...",
+      "customFields": {
+        "personalRating": 8.5,
+        "favoriteAspect": "Combat system and story"
+      }
+    },
+    "status": "enriched"
+  }
+]

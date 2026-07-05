@@ -1,0 +1,332 @@
+[
+  {
+    "id": "game-0029",
+    "name": "Need for Speed: Most Wanted",
+    "platform": "pc",
+    "genre": "Racing",
+    "launcher": "Steam",
+    "synopsis": "The definitive open-world arcade racer set in Fairhaven City where players smash police pursuits and take down a Blacklist of elite street racers to become the most wanted driver in the city. Criterion Games brought their Burnout DNA to create a game where any car on the map can be commandeered and every crash is a work of art. Its seamless open world and drop-in multiplayer were genre-defining in 2012.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2012,
+      "developer": "Criterion Games",
+      "publisher": "EA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0068",
+    "name": "Forza Horizon 5",
+    "platform": "ps5",
+    "genre": "Racing",
+    "launcher": "PS5 Console",
+    "synopsis": "Playground Games' open-world racing game set in a stunning recreation of Mexico featuring over 500 cars, dynamic seasons that change the world weekly, and the most diverse biome variety in the series — jungles, deserts, volcanoes and colonial cities. Its Horizon Arcade events, barn finds, and Horizon Story chapters give racing game fans hundreds of hours of content. It launched to near-perfect reviews.",
+    "ratings": {
+      "metacritic": 92,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Playground Games",
+      "publisher": "Xbox Game Studios",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0083",
+    "name": "Hot Wheels Unleashed 2",
+    "platform": "ps5",
+    "genre": "Racing",
+    "launcher": "PS5 Console",
+    "synopsis": "The sequel to the surprise hit Hot Wheels racer expands from 1:64 scale tracks to outdoor environments including woods, university campuses and farmlands, with 130 vehicle classes including motorcycles and ATVs. Its track builder tools let players create and share courses. The tone remains delightfully unserious — you can race as a Hot Dog car against a T-Rex skeleton.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Milestone S.r.l.",
+      "publisher": "Milestone S.r.l.",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0216",
+    "name": "Forza Horizon 4",
+    "platform": "pc",
+    "genre": "Racing",
+    "launcher": "Steam",
+    "synopsis": "Set in a stunning recreation of the British countryside across dynamic seasons — spring, summer, autumn and winter — each changing the world weekly with new events, surfaces and challenges. Its shared open world means other players are visible as Drivatars competing in parallel. With over 450 cars and an enormous map spanning Edinburgh, the Lake District and Edinburgh, it remains a benchmark racing game.",
+    "ratings": {
+      "metacritic": 92,
+      "steam": 87,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Playground Games",
+      "publisher": "Xbox Game Studios",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0240",
+    "name": "HOT WHEELS UNLEASHED",
+    "platform": "pc",
+    "genre": "Racing",
+    "launcher": "Steam",
+    "synopsis": "A faithful Hot Wheels adaptation that puts players behind 1:64 scale die-cast cars racing through the fantastically detailed miniature tracks in environments like college basements, skate parks and construction sites. Its 50+ authentic Hot Wheels cars are lovingly recreated, and the track builder allows extraordinary creativity. A genuine surprise hit that captured childhood nostalgia perfectly.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Milestone",
+      "publisher": "Milestone",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0273",
+    "name": "Need for Speed: Heat",
+    "platform": "pc",
+    "genre": "Racing",
+    "launcher": "Steam",
+    "synopsis": "NFS returns to its Underground roots in Palm City, a fictional Miami-inspired city where players race legitimately by day for prize money and evade corrupted cops in illegal night races for rep. Its day/night structure and deep car customisation are the strongest in the series in years. The cops are genuinely menacing and create tense pursuits.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": 73,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Ghost Games",
+      "publisher": "EA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0274",
+    "name": "Need for Speed: Rivals",
+    "platform": "pc",
+    "genre": "Racing",
+    "launcher": "Steam",
+    "synopsis": "A seamless world racer where Racers and Cops exist simultaneously on the same map, creating emergent player-versus-player pursuits. Its AllDrive system meant single-player and multiplayer shared one open world. The car selection was strong and the sense of speed remained characteristic Criterion quality despite the studio's limited involvement.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 69,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2013,
+      "developer": "Ghost Games / Criterion",
+      "publisher": "EA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0493",
+    "name": "art of rally",
+    "platform": "ps4",
+    "genre": "Racing",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0548",
+    "name": "DIRT 5",
+    "platform": "ps4",
+    "genre": "Racing",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0609",
+    "name": "HOT WHEELS UNLEASHED 2 - Turbocharged",
+    "platform": "ps4",
+    "genre": "Racing",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0658",
+    "name": "Need for Speed",
+    "platform": "ps4",
+    "genre": "Racing",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "NFS returns to its Underground roots in Palm City, a fictional Miami-inspired city where players race legitimately by day for prize money and evade corrupted cops in illegal night races for rep. Its day/night structure and deep car customisation are the strongest in the series in years. The cops are genuinely menacing and create tense pursuits.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": 73,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Ghost Games",
+      "publisher": "EA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0659",
+    "name": "Need for Speed Heat",
+    "platform": "ps4",
+    "genre": "Racing",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0660",
+    "name": "Need For Speed Hot Pursuit Remastered",
+    "platform": "ps4",
+    "genre": "Racing",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0661",
+    "name": "Need for Speed Unbound",
+    "platform": "ps4",
+    "genre": "Racing",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0730",
+    "name": "Team Sonic Racing",
+    "platform": "ps4",
+    "genre": "Racing",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

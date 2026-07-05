@@ -1,0 +1,68 @@
+[
+  {
+    "id": "game-0215",
+    "name": "Fortnite",
+    "platform": "pc",
+    "genre": "Battle Royale",
+    "launcher": "Epic Games",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0272",
+    "name": "NARAKA: BLADEPOINT",
+    "platform": "pc",
+    "genre": "Battle Royale",
+    "launcher": "Epic Games",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0289",
+    "name": "PUBG: BATTLEGROUNDS",
+    "platform": "pc",
+    "genre": "Battle Royale",
+    "launcher": "Epic Games",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

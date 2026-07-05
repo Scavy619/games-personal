@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "game-0006",
+    "name": "Baldur's Gate 3",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Steam",
+    "synopsis": "An epic turn-based RPG set in the Forgotten Realms using D&D 5th Edition rules, where a group of heroes infected by mind flayer parasites must uncover a dark conspiracy threatening all of Faerûn. Featuring unparalleled reactivity, over 170 hours of content, and a cast of brilliantly written companions, it redefines what a CRPG can be. It swept virtually every Game of the Year award for 2023.",
+    "ratings": {
+      "metacritic": 96,
+      "steam": 97,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Larian Studios",
+      "publisher": "Larian Studios",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0021",
+    "name": "Hogwarts Legacy",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Epic / Steam",
+    "synopsis": "Set in the 1800s Wizarding World, players attend Hogwarts as a fifth-year student who discovers they hold the key to an ancient secret threatening the magical world. The open-world map includes Hogsmeade, Hogwarts castle and the Scottish Highlands packed with puzzles, beast sanctuaries and ancient magic combat. It became the best-selling game of 2023 in the UK and US within its launch window.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 87,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Avalanche Software",
+      "publisher": "Warner Bros. Games",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0028",
+    "name": "Mount & Blade II: Bannerlord",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Steam",
+    "synopsis": "A medieval sandbox RPG where players build a mercenary company and conquer the fractured continent of Calradia through politics, trade and enormous real-time battles of hundreds of soldiers. The game blends first-person mounted combat, kingdom management and procedural campaign events into an unstructured freeform experience. After years of Early Access it launched fully in 2022 with a robust modding scene.",
+    "ratings": {
+      "metacritic": 74,
+      "steam": 80,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "TaleWorlds Entertainment",
+      "publisher": "TaleWorlds Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0038",
+    "name": "Scarlet Nexus",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Steam",
+    "synopsis": "A stylish action RPG set in a future where humans have evolved psychokinetic powers and a brain-worshipping organisation defends Earth from grotesque Psynet mutants called Others. Players switch between two protagonists — Yuito and Kasane — with completely different stories that interweave and contradict each other. Its anime-inspired visuals, fast combo combat and psychological bond system make it a standout JRPG.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Bandai Namco Studios",
+      "publisher": "Bandai Namco",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0049",
+    "name": "Tribes of Midgard",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Steam",
+    "synopsis": "A Viking-themed action survival game where up to 10 players defend their village's world tree from nightly waves of enemies and giant Jötunn during a 15-day countdown to Ragnarök. Players gather resources, craft gear and explore procedurally generated biomes by day while building defences and fighting invasions by night. Its seasonal content model brought fresh biomes and enemies each quarter.",
+    "ratings": {
+      "metacritic": 68,
+      "steam": 78,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Norsfell Games",
+      "publisher": "Gearbox Publishing",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0063",
+    "name": "Cyberpunk 2077",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "CD Projekt Red's epic open-world action RPG set in the mega-city Night City follows mercenary V, who gets a legendary terrorist's memories implanted in their head and has weeks to live. After its catastrophically broken 2020 launch, the 2.0 update and Phantom Liberty expansion transformed it into one of the finest RPGs of the decade. The redemption arc is gaming legend.",
+    "ratings": {
+      "metacritic": 86,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt Red",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0067",
+    "name": "Final Fantasy XVI",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "A darker and more mature Final Fantasy set in the medieval world of Valisthea where giant crystal Mothercrystals power civilisations and nations war over their control. Lead character Clive Rosfield is a man on a revenge quest across decades, fighting with a fluid action combat system powered by stolen Eikon abilities. It draws heavily from Game of Thrones-style political intrigue.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Creative Business Unit III",
+      "publisher": "Square Enix",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0072",
+    "name": "Kingdom Come: Deliverance II",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The sequel to Warhorse's beloved medieval RPG continues Henry of Skalitz's story in 15th century Bohemia with a larger world, improved combat, better stealth and the same commitment to historical authenticity — no magic, no fantasy, just real medieval life. Players navigate court politics, bandit raids and a civil war with Henry's growing reputation as the main character arc. Launched to critical acclaim in 2025.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2025,
+      "developer": "Warhorse Studios",
+      "publisher": "Deep Silver",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0073",
+    "name": "Like a Dragon: Infinite Wealth",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The ninth mainline entry in the Yakuza/Like a Dragon series follows both Ichiban Kasuga and Kiryu Kazuma across a massive adventure set in Hawaii, featuring a turn-based combat system where jobs and abilities are customised freely. The game's extraordinary writing balances outrageous comedy — jobs include being a barista and a streamer — with deeply emotional storylines about legacy, mortality and friendship.",
+    "ratings": {
+      "metacritic": 92,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Ryu Ga Gotoku Studio",
+      "publisher": "SEGA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0074",
+    "name": "Like a Dragon: Ishin!",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "A remake of the 2014 Japan-exclusive Yakuza spin-off transposing the franchise's cast into Bakumatsu-era Japan, with Kiryu-alike Sakamoto Ryoma investigating a conspiracy within the Shinsengumi. The game blends real-time brawler combat with turn-based card battles and a deep substory system set against the backdrop of Japan's most romanticised historical period. Previously unavailable in the West until this 2023 remake.",
+    "ratings": {
+      "metacritic": 77,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Ryu Ga Gotoku Studio",
+      "publisher": "SEGA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0078",
+    "name": "Tales of Arise",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The 17th mainline Tales game follows Alphen, an amnesiac slave from the occupied planet Dahna, and Shionne, an oppressor from Rena, as they join forces to liberate their worlds from a centuries-old system of exploitation. Its anime-inspired art style, Boost Strike combo system and deeply human character writing elevated it above typical JRPG storytelling. It sold over 2 million copies.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Bandai Namco Studios",
+      "publisher": "Bandai Namco",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0086",
+    "name": "Crimson Desert",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "Pearl Abyss's action RPG spin-off from Black Desert Online follows mercenary captain Macduff across a vast open world of war-torn kingdoms, featuring visceral melee combat inspired by From Software games mixed with the developer's signature world-building. Its combat system rewards precise parrying and countering with brutal finishers. Released after multiple delays to strong reception in late 2024.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Pearl Abyss",
+      "publisher": "Pearl Abyss",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0095",
+    "name": "Fallout 4",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Bethesda's post-nuclear RPG set in the Commonwealth Wasteland of Boston follows the Sole Survivor searching for their kidnapped son 210 years after nuclear war, building settlements, crafting weapons, and navigating faction politics between the Brotherhood of Steel, the Institute and the Railroad. Its extensive mod support transformed the experience. The TV series reignited its playerbase in 2024.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 71,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0098",
+    "name": "Horizon Zero Dawn",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Guerrilla Games' open-world action RPG set a thousand years in the future where humanity lives in tribal societies amid ruins of our civilisation, hunted by biomechanical dinosaur-like machines. Protagonist Aloy uses a bow, traps and focus device to dismantle machine herds and uncover the mystery of the world's cataclysm. Its narrative mystery and machine combat design are two of the most original contributions to the genre in the last decade.",
+    "ratings": {
+      "metacritic": 89,
+      "steam": 87,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Guerrilla Games",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0099",
+    "name": "Lies of P",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "A Soulsborne game reimagining Pinocchio as a puppet-boy searching for his creator Geppetto in the crumbling Belle Époque city of Krat, overrun by maddened puppets. Its P-Organ upgrade system, weapon assembly crafting and morality-based lie/truth choices give it a distinct identity within the genre. As the first Korean Souls-like it drew worldwide attention and near-universal critical praise for its atmosphere and boss design.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 93,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Neowiz",
+      "publisher": "Neowiz",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0103",
+    "name": "Middle-earth: Shadow of War",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "The sequel to Shadow of Mordor expands the Nemesis system — where every orc has a name, personality and memory of your previous encounters — to include fortress sieges where player-trained armies and rival orc warchiefs battle for control of Mordor. Talion and the spirit of Celebrimbor must forge a new Ring of Power to fight Sauron. Despite controversy over its original loot box implementation, the game itself is remarkable.",
+    "ratings": {
+      "metacritic": 73,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Monolith Productions",
+      "publisher": "Warner Bros.",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0104",
+    "name": "Monster Hunter Rise",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Capcom's Monster Hunter set in the Japanese-inspired Kamura Village introduces the Wirebug grapple system enabling spectacular aerial combat and zipline traversal, alongside Palamute canine companions you can ride. Players hunt 100+ monsters, craft their gear from monster parts, and master 14 completely different weapon classes. Its Sunbreak expansion added a new continent, Master Rank and some of the series' most memorable fights.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0106",
+    "name": "Persona 5 Royal",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "The expanded edition of Atlus' masterpiece JRPG follows phantom thief Joker and the Phantom Thieves of Hearts stealing distorted desires from corrupt adults through supernatural Palaces in a dual life of high school and heist. Royal adds a third semester, new party member Kasumi, and deep revisions to the base game's dungeons, making an already 100-hour game even richer. Frequently cited as one of the greatest games ever made.",
+    "ratings": {
+      "metacritic": 95,
+      "steam": 97,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "P-Studio",
+      "publisher": "Atlus",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0114",
+    "name": "The Outer Worlds",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Obsidian Entertainment's satirical space RPG set in a corporate-owned solar system follows a colonist awoken from cryo-sleep who gets caught between the mega-corporations running humanity and a shadowy conspiracy threatening the entire colony. Its deep dialogue systems, companion characters and multiple faction-based endings recall Fallout New Vegas. It was praised for its witty writing and meaningful player choice.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Obsidian Entertainment",
+      "publisher": "Private Division",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0115",
+    "name": "The Witcher 3: Wild Hunt",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "CD Projekt Red's masterpiece follows monster-hunter Geralt of Rivia across the war-ravaged Northern Kingdoms searching for his adopted daughter Ciri, who is being hunted by the spectral Wild Hunt. Its open world — Velen, Novigrad, Skellige and Toussaint — is the richest and most reactive in RPG history, and its two expansions are each longer than most full games. It won over 250 Game of the Year awards.",
+    "ratings": {
+      "metacritic": 93,
+      "steam": 96,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt Red",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0138",
+    "name": "Baldur's Gate II: Enhanced Edition",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Steam",
+    "synopsis": "Beamdog's definitive edition of Black Isle's 2000 RPG masterpiece, widely regarded as the greatest CRPG ever made, following Gorion's Ward on an epic quest against the wizard Irenicus across Amn and beyond. The Enhanced Edition adds new companions, expanded content and full resolution support while preserving the original's extraordinary writing. It defined the CRPG genre.",
+    "ratings": {
+      "metacritic": null,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2013,
+      "developer": "Beamdog",
+      "publisher": "Beamdog",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0204",
+    "name": "Fallout: New Vegas",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Steam",
+    "synopsis": "Set in the Mojave Wasteland around post-apocalyptic Las Vegas, New Vegas follows a courier betrayed and left for dead who uncovers a battle for control of Hoover Dam between the NCR, Caesar's Legion and the mysterious Mr. House. Obsidian's nuanced faction writing, genuine RPG consequences and extraordinary companion characters make it the definitive Fallout experience. The 'Yes Man' route is still discussed today.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 94,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2010,
+      "developer": "Obsidian Entertainment",
+      "publisher": "Bethesda",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0252",
+    "name": "Keylocker | Turn Based Cyberpunk Action",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Epic Games",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0253",
+    "name": "Kingdom Come: Deliverance",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Steam",
+    "synopsis": "An extraordinarily immersive first-person RPG set in 15th century Bohemia committed to historical authenticity — no magic, just medieval life. Henry of Skalitz starts with no combat skill, requiring players to genuinely train through practice. Its realistic swordfighting, lockpicking and alchemy systems are unlike anything in RPG history. The console version requires significant patience.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Warhorse Studios",
+      "publisher": "Deep Silver",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0261",
+    "name": "Marvel's Avengers - The Definitive Edition",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Steam",
+    "synopsis": "Crystal Dynamics' ambitious attempt to create a live service Avengers game featuring original story campaigns for each hero alongside endgame progression systems. Its campaign following teenage Ms. Marvel and an aged AIM-conspiracy story received praise, but the looter shooter endgame failed to retain its player base. Servers closed in September 2023.",
+    "ratings": {
+      "metacritic": 67,
+      "steam": 45,
+      "steamLabel": "Mixed"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Crystal Dynamics",
+      "publisher": "Square Enix",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0332",
+    "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Steam",
+    "synopsis": "The fourth Elder Scrolls follows the player character escaping prison to protect the heir of the Septim bloodline as Oblivion gates spill daedra across Tamriel. Its fully voiced world, radiant AI and extraordinary mod support made it one of PC gaming's landmark experiences. The Dark Brotherhood assassination questline remains Bethesda's finest narrative design.",
+    "ratings": {
+      "metacritic": 94,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2006,
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0333",
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Steam",
+    "synopsis": "The Special Edition remaster of gaming's most ubiquitous RPG with improved visuals, mod support on console and all three DLC included — Dawnguard, Hearthfire and Dragonborn. Players create the Dragonborn, who alone can absorb dragon souls and use the Thu'um to shout enemies into oblivion. Its enduring modding community has extended its life across 15 years.",
+    "ratings": {
+      "metacritic": 74,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0339",
+    "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "platform": "pc",
+    "genre": "Action RPG",
+    "launcher": "Steam",
+    "synopsis": "The pivotal second Witcher game established CD Projekt Red as a premier RPG studio with branching story paths that create completely different second acts depending on who Geralt sides with. Its political intrigue, morally complex characters and exceptional writing laid the foundation for The Witcher 3. The Enhanced Edition is the definitive version.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": 92,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2011,
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0406",
+    "name": "Banishers: Ghosts of New Eden",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "Ghost hunters Antea Duarte and Red mac Raith arrive in colonial New England to banish a terrible haunting but find their mission complicated when Antea herself becomes a ghost. Players switch between living and ghost gameplay as they investigate five haunting cases, with moral choices determining whether Antea can return to the living. A touching supernatural love story.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Don't Nod",
+      "publisher": "Focus Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0412",
+    "name": "Diablo IV",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The fourth mainline entry in Blizzard's seminal ARPG franchise takes a darker, more gothic tone as five playable classes battle the demon lord Lilith in a massive open world Sanctuary. Its seasonal content model has delivered substantial post-launch stories and mechanics. The endgame at launch was criticised but Season of the Malignant substantially improved the experience.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Blizzard Entertainment",
+      "publisher": "Blizzard Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0420",
+    "name": "FINAL FANTASY VII REMAKE",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0428",
+    "name": "Horizon Zero Dawn Remastered",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "A comprehensive remaster of Guerrilla's 2017 open-world masterpiece featuring fully rebuilt character models, upgraded environments, enhanced motion capture for all dialogue scenes and PS5 DualSense integration. Aloy's journey to uncover the truth behind Earth's mechanical creatures and her own origins remains one of gaming's most satisfying mysteries. Essential for newcomers to the series.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Nixxes Software / Guerrilla Games",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0442",
+    "name": "Nioh 2 Remastered",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The complete remaster of Team Ninja's supernatural samurai RPG set in Sengoku-era Japan, following half-spirit warrior Hide navigating yokai-infested battlefields. The Remaster includes all three DLC expansions — The Tengu's Disciple, Darkness in the Capital and The First Samurai — and runs at 60fps with 4K support on PS5. Its combat is among the most demanding and satisfying in the genre.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Team Ninja",
+      "publisher": "Koei Tecmo",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0443",
+    "name": "Persona 5 Tactica",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "The Phantom Thieves are transported to a parallel feudal world dominated by a revolutionary army and must fight to escape using a new tactical grid-based combat system with triple-action turns, unique character abilities and enemy envelopment mechanics. Its story provides new insight into each Thief's motivations. Designed as an accessible entry point for tactical RPG newcomers.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "P-Studio",
+      "publisher": "Atlus",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0459",
+    "name": "The Elder Scrolls Online",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0471",
+    "name": "Weird West",
+    "platform": "ps5",
+    "genre": "Action RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "A dark fantasy reimagining of the American West follows five interconnected protagonists — a bounty hunter, pig man, werewolf, and more — through a world where sirens, wendigos and fallen angels haunt the frontier. WolfEye's immersive sim approach lets players approach every situation with emergent solutions. The interconnected narratives create a sense of a breathing world.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "WolfEye Studios",
+      "publisher": "Devolver Digital",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0569",
+    "name": "Fallout 76",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0591",
+    "name": "Granblue Fantasy: Relink",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "An action RPG set in the beloved Granblue Fantasy universe following Captain and their sky pirate crew on an adventure to Estalucia. Its exhilarating 4-player co-op boss raids, extraordinary character variety and spectacular visual design captured fans worldwide. The endgame's quest for stronger weapons provides hundreds of hours of rewarding loot progression.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Cygames",
+      "publisher": "Cygames",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0623",
+    "name": "Kingdom Come: Deliverance Royal Edition",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0640",
+    "name": "Mass Effect Legendary Edition",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "BioWare's remaster of all three original Mass Effect games plus most DLC content, delivering the complete Shepard trilogy in one package with extensive visual improvements, unified weapon systems and corrected balance. Playing Legendary Edition is still one of gaming's most emotionally overwhelming experiences — the accumulation of three games' relationships and choices builds to consequences of genuine weight.",
+    "ratings": {
+      "metacritic": 91,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "BioWare",
+      "publisher": "EA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0666",
+    "name": "Nioh",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "The complete remaster of Team Ninja's supernatural samurai RPG set in Sengoku-era Japan, following half-spirit warrior Hide navigating yokai-infested battlefields. The Remaster includes all three DLC expansions — The Tengu's Disciple, Darkness in the Capital and The First Samurai — and runs at 60fps with 4K support on PS5. Its combat is among the most demanding and satisfying in the genre.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Team Ninja",
+      "publisher": "Koei Tecmo",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0667",
+    "name": "Nioh 2",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "A prequel to Nioh following Hide, a half-human half-yokai warrior in Sengoku Japan whose shapeshifter abilities and weapon variety surpass the original. Team Ninja's mastery of the souls-like formula produces some of the finest boss fights in the genre. Its deep build complexity and high skill ceiling reward hundreds of hours of investment.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Team Ninja",
+      "publisher": "Koei Tecmo",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0678",
+    "name": "Persona 5 Strikers",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0704",
+    "name": "Skyrim",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "The Special Edition remaster of gaming's most ubiquitous RPG with improved visuals, mod support on console and all three DLC included — Dawnguard, Hearthfire and Dragonborn. Players create the Dragonborn, who alone can absorb dragon souls and use the Thu'um to shout enemies into oblivion. Its enduring modding community has extended its life across 15 years.",
+    "ratings": {
+      "metacritic": 74,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0738",
+    "name": "The Elder Scrolls Online: Tamriel Unlimited",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0786",
+    "name": "Yakuza: Like A Dragon",
+    "platform": "ps4",
+    "genre": "Action RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "A dramatic genre pivot for the Yakuza series introduces Ichiban Kasuga — a bright-eyed Dragon Quest fan who interprets the world as a JRPG — alongside a brand new turn-based combat system. Set in Yokohama's Isezaki Ijincho district, it is both a love letter to JRPGs and one of the funniest, most emotionally affecting games Ryu Ga Gotoku Studio has produced.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Ryu Ga Gotoku Studio",
+      "publisher": "SEGA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

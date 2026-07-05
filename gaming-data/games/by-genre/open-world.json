@@ -1,0 +1,706 @@
+[
+  {
+    "id": "game-0017",
+    "name": "Grand Theft Auto IV",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "Niko Bellic's immigration story in a bleak rain-soaked Liberty City is one of gaming's most mature and thematically rich narratives, exploring the broken promises of the American Dream. The game introduced a physics engine, cover shooting and a character-driven story that set a new standard for open world storytelling. Its PC port was notorious for performance issues at launch but patched over time.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": 75,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2008,
+      "developer": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0024",
+    "name": "Just Cause 4",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "Rico Rodriguez returns in his most physics-powered adventure yet, with a grappling hook system, infinite tethers and a wingsuit letting players attach rockets to anything in a South American archipelago. The game leans hard into emergent chaos — creating tornados, building flying tanks, and tearing apart environments in spectacular ways. Critics noted the story was thin but the sandbox freedom was unmatched.",
+    "ratings": {
+      "metacritic": 67,
+      "steam": 73,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Avalanche Studios",
+      "publisher": "Square Enix",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0054",
+    "name": "Watch Dogs: Legion",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Xbox App",
+    "synopsis": "Set in a near-future dystopian London under authoritarian surveillance, players recruit any NPC in the city as a playable operative for the hacker resistance DedSec. The Play as Anyone system gives each recruit unique skills, backstories and voices — a lorry driver fights differently than a hitman or a beekeeper. The system creates emergent stories unique to each player's run.",
+    "ratings": {
+      "metacritic": 73,
+      "steam": 74,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Ubisoft Toronto",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0057",
+    "name": "Assassin's Creed Mirage",
+    "platform": "ps5",
+    "genre": "Open World",
+    "launcher": "PS5 Console",
+    "synopsis": "A deliberate return to the series' roots, following Basim Ibn Ishaq's origins in 9th century Baghdad as he transitions from street thief to Hidden One master assassin. The game strips back RPG bloat to focus on stealth, parkour and assassination contracts in a beautifully realised Abbasid Caliphate city. Its compact 20-hour length was praised as a refreshing course correction for the franchise.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Ubisoft Bordeaux",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0070",
+    "name": "Grand Theft Auto V",
+    "platform": "ps5",
+    "genre": "Open World",
+    "launcher": "PS5 Console",
+    "synopsis": "The expanded and enhanced PS5 version of Rockstar's record-breaking 2013 open-world crime game featuring three protagonists — Michael, Trevor and Franklin — whose heist-driven story interweaves across a massive Los Santos and Blaine County recreation of Los Angeles. The PS5 version adds DualSense haptics, 4K visuals and ray-tracing alongside the still-thriving GTA Online. It remains one of the best-selling games of all time.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0100",
+    "name": "Mad Max",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Set in the post-apocalyptic Wasteland, Max Rockatansky builds the ultimate vehicle — the Magnum Opus — and fights warlord Scrotus' forces across a desolate open world of car combat, stronghold sieges and survival challenges. Avalanche Studios created an immensely satisfying vehicular combat system with brutal on-foot melee. Though underrated at launch, its deep open-world systems have aged remarkably well.",
+    "ratings": {
+      "metacritic": 70,
+      "steam": 81,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "Avalanche Studios",
+      "publisher": "Warner Bros.",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0107",
+    "name": "Red Dead Redemption",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Rockstar's epic Western follows John Marston, a former outlaw forced by government agents to hunt his old gang across the dying American frontier. Its open world captures the beauty and brutality of the 1911 Southwest and Mexico with a haunting score and one of gaming's most powerful endings. The PS4 port arrived in 2023 via emulation of the original alongside Undead Nightmare.",
+    "ratings": {
+      "metacritic": 95,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2010,
+      "developer": "Rockstar San Diego",
+      "publisher": "Rockstar Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0108",
+    "name": "Red Dead Redemption II",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Rockstar's prequel to RDR1 follows Arthur Morgan, enforcer for the Van der Linde gang, as the outlaw era draws to a close and the gang fragments under pressure from Pinkerton agents. The most detailed and lived-in open world ever created at its release, with every animal, plant and NPC on a real-time schedule. Arthur Morgan's story is widely considered gaming's greatest character arc.",
+    "ratings": {
+      "metacritic": 97,
+      "steam": 89,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Rockstar Studios",
+      "publisher": "Rockstar Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0110",
+    "name": "Sleeping Dogs: Definitive Edition",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Players go undercover as Hong Kong cop Wei Shen infiltrating the Sun On Yee Triad in a gripping open-world crime thriller inspired by classic Hong Kong cinema like Infernal Affairs. Its melee combat system — built on contextual environmental takedowns — is still considered among the best in the open-world genre. The Definitive Edition bundles all DLC including the supernatural Nightmare in North Point expansion.",
+    "ratings": {
+      "metacritic": 77,
+      "steam": 87,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "United Front Games",
+      "publisher": "Square Enix",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0117",
+    "name": "Watch Dogs",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Ubisoft's original hacker thriller follows Aiden Pearce using a smartphone to hack Chicago's entire city infrastructure — traffic lights, bridges, cameras, trains — for vigilante justice after his niece is killed. Though the visuals disappointed against its stunning 2012 reveal, the hacking mechanics and open-world design were genuinely original for 2014. It sold 4 million copies in its first week.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 72,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0133",
+    "name": "Assassin's Creed Brotherhood",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "Continuing Ezio Auditore's story in Rome, Brotherhood introduced the revolutionary mechanic of recruiting and commanding an assassin brotherhood — sending trained Assassins on contracts or calling them to assist in combat. Its Italian Renaissance Rome is one of the series' most realised settings, and the multiplayer was uniquely clever. Often considered the high point of the Ezio trilogy.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2010,
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0134",
+    "name": "Assassin's Creed IV Black Flag",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "Players take the role of Welsh pirate Edward Kenway in the Golden Age of Piracy, commanding a ship called the Jackdaw across the Caribbean, raiding merchant vessels, harpooning whales and exploring uncharted islands. Its naval combat was so well-received that Ubisoft built entire games around it. Black Flag remains many players' favourite entry for its sheer sense of oceanic adventure.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2013,
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0135",
+    "name": "Assassin's Creed Origins",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "A dramatic reimagining of the series' foundations set in ancient Egypt, following Bayek of Siwa as he hunts those who killed his son and inadvertently founds the Brotherhood of Assassins. The RPG overhaul brought loot systems, skill trees and a vast open world spanning the Nile Delta to the Sinai. Its Discovery Tour mode turns the game into an interactive museum.",
+    "ratings": {
+      "metacritic": 81,
+      "steam": 81,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0136",
+    "name": "Assassin's Creed Valhalla",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "Players lead Eivor, a Viking raider who leaves Norway for the shores of England in 872 AD to raid, build settlements and form alliances with Saxon kingdoms. At over 100 hours of content, it is the most expansive entry in the franchise. Its settlement building, orlog dice game, and alliance system represent the most personalised Assassin's Creed experience yet.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 78,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0223",
+    "name": "Grand Theft Auto IV: The Complete Edition",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "Complete Edition of GTA IV bundling both the original game and the Lost and Damned and Ballad of Gay Tony DLC. Niko Bellic's immigrant story in Liberty City remains one of gaming's most mature narratives despite the base game's infamous PC performance issues. The DLC episodes stand as some of Rockstar's finest work.",
+    "ratings": {
+      "metacritic": null,
+      "steam": 76,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0224",
+    "name": "Grand Theft Auto V Legacy",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "The expanded and enhanced legacy edition of Rockstar's record-breaking 2013 masterpiece featuring three protagonists across the largest map in GTA history. Its billion-dollar GTA Online continues to receive updates years later. For PC players, the original 2015 version includes extensive mod support through the active modding community.",
+    "ratings": {
+      "metacritic": 97,
+      "steam": 76,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0233",
+    "name": "Hitman 2: Silent Assassin",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "The sequel that defined the stealth assassination genre, following Agent 47 across missions in Sicily, Japan, India, Russia and Malaysia. Its disguise system and environmental storytelling set the template for all future Hitman games. The mission in a Russian gulag remains one of the most atmospheric stealth levels in gaming history.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": 85,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2002,
+      "developer": "IO Interactive",
+      "publisher": "Eidos Interactive",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0243",
+    "name": "Immortals Fenyx Rising",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "A lighthearted Greek mythology open world adventure following Fenyx, a soldier on a divine quest to free the Greek gods from Typhon's curse. Its physics puzzles, combat and art style drew inevitable Breath of the Wild comparisons that undersold its own identity. Narrated by a bickering Prometheus and Zeus, its comedic tone is a refreshing change for the genre.",
+    "ratings": {
+      "metacritic": 78,
+      "steam": 79,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Ubisoft Quebec",
+      "publisher": "Ubisoft",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0250",
+    "name": "Just Cause 3",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "Rico Rodriguez returns to his Mediterranean homeland of Medici to liberate it from dictator General Di Ravello using an upgraded grapple hook, a wingsuit and unlimited explosives. The game is pure sandbox freedom — attaching gas canisters to soldiers, tethering vehicles together, and creating elaborate chain explosions across the beautiful Italian-inspired landscape. Glitches and DLC quality were criticised.",
+    "ratings": {
+      "metacritic": 74,
+      "steam": 78,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "Avalanche Studios",
+      "publisher": "Square Enix",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0257",
+    "name": "Mafia III: Definitive Edition",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "Set in fictional New Bordeaux in 1968, Vietnam veteran Lincoln Clay dismantles the Italian mob that murdered his surrogate family in one of gaming's most boldly political stories about race and crime in the American South. Its authentic 1960s setting and excellent soundtrack are highlighted alongside repetitive mission design. The Definitive Edition includes all DLC.",
+    "ratings": {
+      "metacritic": 66,
+      "steam": 72,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Hangar 13",
+      "publisher": "2K Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0295",
+    "name": "Red Dead Redemption 2",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "Arthur Morgan's story as a loyal outlaw navigating an America being strangled by modernity is gaming's most emotionally resonant open world epic. Rockstar's attention to detail creates a world where strangers have their own stories. Its epilogue following John Marston is among the most poignant game endings ever written. The PS4 version is technically remarkable.",
+    "ratings": {
+      "metacritic": 97,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0345",
+    "name": "Tom Clancy's The Division",
+    "platform": "pc",
+    "genre": "Open World",
+    "launcher": "Steam",
+    "synopsis": "An open world third-person shooter set in a quarantined Manhattan weeks after a virus-covered dollar bill outbreak, where Division sleeper agents attempt to restore order amid civil chaos. Its atmospheric snow-covered recreation of New York and the Dark Zone PvPvE mechanic were genuinely innovative. Post-launch content substantially improved the base game.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 73,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Ubisoft Massive",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0422",
+    "name": "Ghost of Tsushima Director's Cut",
+    "platform": "ps5",
+    "genre": "Open World",
+    "launcher": "PS5 Console",
+    "synopsis": "The Director's Cut of Sucker Punch's samurai epic adds the Iki Island expansion with a new story confronting Jin Sakai's past trauma and spiritual healing. The expanded Director's Cut includes Legends multiplayer, new accessibility options and the stunning PS5 enhancements — 60fps, haptic feedback for every sword strike, and jaw-dropping load times.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Sucker Punch Productions",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0455",
+    "name": "Star Wars Outlaws",
+    "platform": "ps5",
+    "genre": "Open World",
+    "launcher": "PS5 Console",
+    "synopsis": "The first open-world Star Wars game follows scoundrel Kay Vess and her creature companion Nix across multiple planets between Empire Strikes Back and Return of the Jedi, running heists for criminal syndicates. Its faction reputation system and seamless space travel between worlds create the most authentic Star Wars adventure outside the films. Speeder bike traversal and stealth sequences are highlights.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Massive Entertainment",
+      "publisher": "Ubisoft",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0496",
+    "name": "Assassin's Creed Chronicles: China",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0497",
+    "name": "Assassin's Creed Chronicles: India",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0594",
+    "name": "Grand Theft Auto III - The Definitive Edition",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0595",
+    "name": "Grand Theft Auto: San Andreas - The Definitive Edition",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0596",
+    "name": "Grand Theft Auto: Vice City - The Definitive Edition",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0634",
+    "name": "Mafia II: Definitive Edition",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0635",
+    "name": "Mafia III",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Set in fictional New Bordeaux in 1968, Vietnam veteran Lincoln Clay dismantles the Italian mob that murdered his surrogate family in one of gaming's most boldly political stories about race and crime in the American South. Its authentic 1960s setting and excellent soundtrack are highlighted alongside repetitive mission design. The Definitive Edition includes all DLC.",
+    "ratings": {
+      "metacritic": 66,
+      "steam": 72,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Hangar 13",
+      "publisher": "2K Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0636",
+    "name": "Mafia: Definitive Edition",
+    "platform": "ps4",
+    "genre": "Open World",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

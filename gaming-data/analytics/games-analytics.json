@@ -1,0 +1,126 @@
+{
+  "totalGames": 787,
+  "byGenre": [
+    {
+      "genre": "Strategy",
+      "count": 57,
+      "avgMetacritic": "52.2",
+      "avgSteam": "60.1"
+    },
+    {
+      "genre": "Simulation",
+      "count": 39,
+      "avgMetacritic": "28.3",
+      "avgSteam": "36.0"
+    },
+    {
+      "genre": "Action RPG",
+      "count": 46,
+      "avgMetacritic": "66.9",
+      "avgSteam": "37.3"
+    },
+    {
+      "genre": "First-Person Shooter",
+      "count": 80,
+      "avgMetacritic": "49.2",
+      "avgSteam": "34.1"
+    },
+    {
+      "genre": "Action-Adventure",
+      "count": 398,
+      "avgMetacritic": "4.9",
+      "avgSteam": "2.8"
+    },
+    {
+      "genre": "RPG",
+      "count": 16,
+      "avgMetacritic": "64.6",
+      "avgSteam": "45.1"
+    },
+    {
+      "genre": "Shooter",
+      "count": 4,
+      "avgMetacritic": "85.3",
+      "avgSteam": "43.0"
+    },
+    {
+      "genre": "Open World",
+      "count": 32,
+      "avgMetacritic": "61.0",
+      "avgSteam": "46.5"
+    },
+    {
+      "genre": "Stealth",
+      "count": 11,
+      "avgMetacritic": "39.3",
+      "avgSteam": "40.8"
+    },
+    {
+      "genre": "Racing",
+      "count": 15,
+      "avgMetacritic": "43.1",
+      "avgSteam": "31.5"
+    },
+    {
+      "genre": "Platformer",
+      "count": 11,
+      "avgMetacritic": "55.1",
+      "avgSteam": "8.8"
+    },
+    {
+      "genre": "Survival Horror",
+      "count": 11,
+      "avgMetacritic": "31.5",
+      "avgSteam": "16.1"
+    },
+    {
+      "genre": "Adventure",
+      "count": 12,
+      "avgMetacritic": "55.9",
+      "avgSteam": "15.7"
+    },
+    {
+      "genre": "Sports",
+      "count": 34,
+      "avgMetacritic": "28.0",
+      "avgSteam": "14.8"
+    },
+    {
+      "genre": "Fighting",
+      "count": 18,
+      "avgMetacritic": "44.9",
+      "avgSteam": "30.9"
+    },
+    {
+      "genre": "Battle Royale",
+      "count": 3,
+      "avgMetacritic": "0.0",
+      "avgSteam": "0.0"
+    }
+  ],
+  "byPlatform": [
+    {
+      "platform": "pc",
+      "count": 333
+    },
+    {
+      "platform": "ps5",
+      "count": 106
+    },
+    {
+      "platform": "ps4",
+      "count": 348
+    }
+  ],
+  "ratingDistribution": {
+    "excellent": 105,
+    "good": 106,
+    "average": 40,
+    "below": 536,
+    "unrated": 533
+  },
+  "releaseYears": {
+    "min": 2002,
+    "max": 2025
+  }
+}

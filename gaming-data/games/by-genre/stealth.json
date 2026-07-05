@@ -1,0 +1,244 @@
+[
+  {
+    "id": "game-0020",
+    "name": "Hitman 2",
+    "platform": "pc",
+    "genre": "Stealth",
+    "launcher": "Steam",
+    "synopsis": "Agent 47 travels to six stunning global locations — Miami, Mumbai, New Zealand and beyond — to assassinate targets in gloriously creative ways within vast sandbox levels. The game rewards replaying missions to discover hundreds of disguise routes, poison setups, and accidental-death opportunities unique to each target. It carries forward all Hitman 2016 missions making it the definitive stealth sandbox.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": 92,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "IO Interactive",
+      "publisher": "Warner Bros.",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0102",
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "platform": "ps4",
+    "genre": "Stealth",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Hideo Kojima's final Metal Gear game sees Big Boss building a mercenary force called Diamond Dogs across open-world Afghanistan and Africa, using stealth, extraction and fulton recovery to dismantle the XOF organisation in a philosophical meditation on revenge, language and nuclear deterrence. Its open-world mission structure and Mother Base management systems are addictively deep. The game's unfinished Chapter 3 remains one of gaming's great controversies.",
+    "ratings": {
+      "metacritic": 95,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "Kojima Productions",
+      "publisher": "Konami",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0182",
+    "name": "Desperados III",
+    "platform": "pc",
+    "genre": "Stealth",
+    "launcher": "Steam",
+    "synopsis": "Mimimi Games' Wild West spiritual successor to Shadow Tactics features five distinct specialists — including the legendary bounty hunter Cooper and the lethal McCoy — working together across massive sandbox levels demanding patience, planning and precision. Its Showdown Mode lets players pause and plan multi-kill chain reactions. Considered one of the finest tactics games of the decade.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": 95,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Mimimi Games",
+      "publisher": "THQ Nordic",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0184",
+    "name": "Deus Ex: Mankind Divided",
+    "platform": "pc",
+    "genre": "Stealth",
+    "launcher": "Steam",
+    "synopsis": "Jensen returns as an augmented Interpol agent navigating a Prague torn apart by human/augmented segregation in the aftermath of the Aug Incident, hunting a terrorist group while uncovering a deeper global conspiracy. Its dense level design rewards exploration and supports lethal or non-lethal approaches across multiple solutions. The Blade Runner-esque setting is beautifully realised.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 80,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Eidos Montreal",
+      "publisher": "Square Enix",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0234",
+    "name": "Hitman: Absolution",
+    "platform": "pc",
+    "genre": "Stealth",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0235",
+    "name": "Hitman: Blood Money",
+    "platform": "pc",
+    "genre": "Stealth",
+    "launcher": "Steam",
+    "synopsis": "Widely considered the series' peak until 2016, Blood Money gives Agent 47 maximum freedom to eliminate targets through elaborate accident kills, disguised infiltration and environmental storytelling. The New Orleans Mardi Gras mission and White House assassination are masterclasses of sandbox design. Its notoriety system tracks how effectively players conceal their kills.",
+    "ratings": {
+      "metacritic": 83,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2006,
+      "developer": "IO Interactive",
+      "publisher": "Eidos Interactive",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0236",
+    "name": "Hitman: Codename 47",
+    "platform": "pc",
+    "genre": "Stealth",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0237",
+    "name": "Hitman: Contracts",
+    "platform": "pc",
+    "genre": "Stealth",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0238",
+    "name": "Hitman: Sniper Challenge",
+    "platform": "pc",
+    "genre": "Stealth",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0604",
+    "name": "HITMAN 3",
+    "platform": "ps4",
+    "genre": "Stealth",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0764",
+    "name": "Uncharted 4: A Thief's End",
+    "platform": "ps4",
+    "genre": "Stealth",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

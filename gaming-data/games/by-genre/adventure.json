@@ -1,0 +1,266 @@
+[
+  {
+    "id": "game-0064",
+    "name": "Dave the Diver",
+    "platform": "ps5",
+    "genre": "Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "A charming hybrid of deep-sea diving roguelite and sushi restaurant management sim, where players dive the mysterious Blue Hole during the day catching fish and uncovering an ancient ocean civilisation, then serve them to customers at night. Its tonal range is extraordinary — whimsical management comedy giving way to genuinely emotional narrative beats. It sold over 3 million copies.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "MINTROCKET",
+      "publisher": "Nexon",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0065",
+    "name": "Death Stranding Director's Cut",
+    "platform": "ps5",
+    "genre": "Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "Hideo Kojima's meditation on connection sees Sam Porter Bridges traversing a shattered post-apocalyptic America making deliveries and linking isolated settlements via a persistent multiplayer road network. The Director's Cut adds new cargo catapults, a racetrack, buddy bot AI and story content alongside PS5 DualSense enhancements. Its themes of isolation and human connection hit differently post-pandemic.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Kojima Productions",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0076",
+    "name": "No Man's Sky",
+    "platform": "ps5",
+    "genre": "Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "Hello Games' once-infamous space exploration survival game has received over 25 major free updates since its 2016 launch, transforming it into one of gaming's greatest redemption stories with base building, multiplayer, VR support and underwater exploration. The PS5 version runs at 60fps with ray-tracing across procedurally generated alien biomes. Its community is among gaming's most welcoming.",
+    "ratings": {
+      "metacritic": 73,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Hello Games",
+      "publisher": "Hello Games",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0145",
+    "name": "Besiege",
+    "platform": "pc",
+    "genre": "Adventure",
+    "launcher": "Steam",
+    "synopsis": "A physics-based building game where players construct siege engines — catapults, trebuchets, cannons and fantastical war machines — from modular blocks to complete progressively harder medieval assault challenges. The emergent contraptions players devise range from elegant to hilariously overpowered. Its sandbox mode and mod support have produced extraordinary community creations.",
+    "ratings": {
+      "metacritic": null,
+      "steam": 97,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Spiderling Studios",
+      "publisher": "Spiderling Studios",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0209",
+    "name": "Firewatch",
+    "platform": "pc",
+    "genre": "Adventure",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0398",
+    "name": "A Plague Tale: Requiem",
+    "platform": "ps5",
+    "genre": "Adventure",
+    "launcher": "PS5 Console",
+    "synopsis": "Amicia and Hugo de Runa continue their desperate journey across a sun-drenched southern France, with Hugo's curse growing stronger and more dangerous as the rat plague follows wherever they go. Its rat swarm mechanics scale to terrifying proportions and the emotional sibling story reaches devastating conclusions. Visually it stands among the most beautiful games of its generation.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Asobo Studio",
+      "publisher": "Focus Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0476",
+    "name": "A Plague Tale: Innocence",
+    "platform": "ps4",
+    "genre": "Adventure",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Amicia de Rune and her young brother Hugo flee Inquisition soldiers across a plague-ravaged 14th century France, using rat swarms as both obstacle and weapon. Its rat mechanics create extraordinary spectacle and genuine puzzle design. The sibling relationship at the centre is one of the most emotionally resonant in gaming, building to a devastating climactic sacrifice.",
+    "ratings": {
+      "metacritic": 81,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Asobo Studio",
+      "publisher": "Focus Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0478",
+    "name": "ABZU",
+    "platform": "ps4",
+    "genre": "Adventure",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0545",
+    "name": "DEATH STRANDING",
+    "platform": "ps4",
+    "genre": "Adventure",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "The first game from Hideo Kojima's post-Konami studio has Norman Reedus' Sam Porter Bridges reconnect a fragmenting post-apocalyptic America by physically carrying packages across treacherous terrain haunted by supernatural BTs. Its asynchronous multiplayer — sharing ropes, ladders and vehicles with other players' worlds — is a profound statement on human connection. Polarising but unforgettable.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Kojima Productions",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0719",
+    "name": "Stray",
+    "platform": "ps4",
+    "genre": "Adventure",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Players take the role of a stray cat navigating a cyberpunk city populated by robots after humanity has vanished, aided by a small drone called B-12 to interact with the world. Its extraordinary feline animation — scratching walls, knocking objects off shelves, meowing at robots — creates an immersive cat experience unlike any other game. Its emotional story about loss resonated enormously.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "BlueTwelve Studio",
+      "publisher": "Annapurna Interactive",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0722",
+    "name": "Subnautica",
+    "platform": "ps4",
+    "genre": "Adventure",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Players crash-land on ocean planet 4546B and must survive, explore and eventually escape using only the resources around them — mining minerals, building underwater bases, farming alien fish and diving ever deeper to uncover a planetary mystery. Its freedom from violence and wonder-focused design make it one of the most unique survival games. The ending is genuinely moving.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Unknown Worlds Entertainment",
+      "publisher": "Unknown Worlds Entertainment",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0723",
+    "name": "Subnautica Below Zero",
+    "platform": "ps4",
+    "genre": "Adventure",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

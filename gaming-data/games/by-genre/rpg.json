@@ -1,0 +1,354 @@
+[
+  {
+    "id": "game-0012",
+    "name": "Disco Elysium: The Final Cut",
+    "platform": "pc",
+    "genre": "RPG",
+    "launcher": "Epic / Steam",
+    "synopsis": "A groundbreaking detective RPG with no combat where skill checks, dialogue and internal monologues from the 24 fragmented voices in your head determine how you rebuild an amnesiac cop in a post-revolutionary harbour town. The writing is extraordinary, political and deeply funny, covering alcoholism, ideology, and failure in ways no other game has. It won four BAFTA awards and is widely considered among the greatest games ever made.",
+    "ratings": {
+      "metacritic": 97,
+      "steam": 95,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "ZA/UM",
+      "publisher": "ZA/UM",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0088",
+    "name": "Batman: The Enemy Within",
+    "platform": "ps4",
+    "genre": "RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Telltale's second Batman series follows Bruce Wayne navigating a treacherous alliance with the mysterious Agency while a young John Doe transforms into the Joker — with the player's choices shaping who he becomes. The Joker origin story is one of Telltale's finest pieces of character writing, offering genuinely different villain or anti-hero paths. It builds substantially on the first season.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Telltale Games",
+      "publisher": "Telltale Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0093",
+    "name": "Detroit: Become Human",
+    "platform": "ps4",
+    "genre": "RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "David Cage's branching narrative adventure follows three androids — Kara, Connor and Markus — as they develop sentience and navigate a near-future Detroit where android civil rights are becoming a crisis. Every decision fans out into a massive flowchart of consequences that can kill any character at any point. It is Quantic Dream's most accomplished work and visually extraordinary.",
+    "ratings": {
+      "metacritic": 78,
+      "steam": 92,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Quantic Dream",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0101",
+    "name": "Marvel's Midnight Suns",
+    "platform": "ps4",
+    "genre": "RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Firaxis' tactical card-based RPG assembles a roster of Marvel superheroes — Spider-Man, Iron Man, Ghost Rider, Blade and more — at a mystical abbey to battle Hydra and the resurrected Lilith, Mother of Demons. Its Abbey social sim between missions builds friendships that enhance card powers, while combat uses hand management and environmental hazards to reward creative plays. A deeply underrated Marvel game.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Firaxis Games",
+      "publisher": "2K Games",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0146",
+    "name": "Beyond Two Souls",
+    "platform": "pc",
+    "genre": "RPG",
+    "launcher": "Epic Games",
+    "synopsis": "David Cage's cinematic narrative game starring Ellen Page and Willem Dafoe across the non-linear life story of Jodie Holmes, a young woman connected to a mysterious supernatural entity named Aiden. Its Hollywood production values and motion capture performances are extraordinary. The story's treatment of its themes divides critics but engages players emotionally throughout.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": 81,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Quantic Dream",
+      "publisher": "Quantic Dream",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0178",
+    "name": "Cult of the Lamb",
+    "platform": "pc",
+    "genre": "RPG",
+    "launcher": "Steam",
+    "synopsis": "A possessed lamb escapes sacrifice and is tasked by a dark god with building a cult. Players run dungeons killing heretics in Binding of Isaac-style roguelite combat, then return to manage their cult village — building structures, performing sermons, feeding followers and punishing dissent. Its twin gameplay loops complement each other perfectly.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": 90,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Massive Monster",
+      "publisher": "Devolver Digital",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0185",
+    "name": "Disco Elysium",
+    "platform": "pc",
+    "genre": "RPG",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0186",
+    "name": "Disco Elysium - The Final Cut",
+    "platform": "pc",
+    "genre": "RPG",
+    "launcher": "Epic Games",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0188",
+    "name": "Divinity: Original Sin (Classic)",
+    "platform": "pc",
+    "genre": "RPG",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0189",
+    "name": "Divinity: Original Sin 2",
+    "platform": "pc",
+    "genre": "RPG",
+    "launcher": "Steam",
+    "synopsis": "Widely considered the greatest CRPG since Baldur's Gate 2, Divinity: Original Sin 2 features four-player co-op, fully voiced dialogue, a dynamic elemental reaction system, and extraordinary freedom — from the game's opening ship prison to its climactic godlike confrontation. Players create their own character or play as one of six origin characters with unique backstories. The Definitive Edition further polished an already exceptional game.",
+    "ratings": {
+      "metacritic": 93,
+      "steam": 97,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Larian Studios",
+      "publisher": "Larian Studios",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0190",
+    "name": "Divinity: Original Sin Enhanced Edition",
+    "platform": "pc",
+    "genre": "RPG",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0313",
+    "name": "South Park: The Stick of Truth",
+    "platform": "pc",
+    "genre": "RPG",
+    "launcher": "Steam",
+    "synopsis": "The New Kid arrives in South Park and joins the children's fantasy LARPing game that quickly spirals into saving the world. Obsidian and Matt Stone/Trey Parker's collaboration produces a game that looks and feels exactly like playing an episode of the show. Its crude humour is extraordinary in context, and its turn-based RPG mechanics are genuinely satisfying.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": 93,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "Obsidian Entertainment",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0405",
+    "name": "Balatro",
+    "platform": "ps5",
+    "genre": "RPG",
+    "launcher": "PS5 Console",
+    "synopsis": "A poker-based roguelite where players build increasingly broken card hands and joker combinations to beat rising blind targets. Its deceptively simple rules mask extraordinary strategic depth — players discover game-breaking synergies that make each run feel like discovering a cheat code. It was the most talked-about indie release of 2024 and became a genuine cultural moment.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "LocalThunk",
+      "publisher": "Playstack",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0550",
+    "name": "Divinity: Original Sin 2 - Definitive Edition",
+    "platform": "ps4",
+    "genre": "RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "The console definitive edition of Larian's masterpiece CRPG, featuring co-op for up to four players and a completely rebuilt third act. The elemental combination combat system, extraordinary companion writing and near-unlimited freedom to find solutions make this the finest RPG of the generation. Each of the six origin characters provides a completely different perspective on the story.",
+    "ratings": {
+      "metacritic": 91,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Larian Studios",
+      "publisher": "Larian Studios",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0705",
+    "name": "Slay the Spire",
+    "platform": "ps4",
+    "genre": "RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "The definitive deckbuilding roguelite that popularised the genre, combining collectible card games with Darkest Dungeon-style dungeon crawling across three unique characters with distinct card pools. Each run's card and relic selection creates wildly different build paths that must synergise to overcome increasingly powerful enemies. Its near-perfect design has inspired dozens of imitators but no true equals.",
+    "ratings": {
+      "metacritic": 89,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "MegaCrit",
+      "publisher": "MegaCrit",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0715",
+    "name": "Stardew Valley",
+    "platform": "ps4",
+    "genre": "RPG",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "A solo-developed farming RPG that has sold over 35 million copies — created entirely by one developer — following a city worker who inherits their grandfather's farm in Pelican Town. Players farm, mine, fish, romance villagers and build community across four seasons. Its extraordinary depth and personal warmth have made it one of the most beloved games ever created.",
+    "ratings": {
+      "metacritic": 89,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "ConcernedApe",
+      "publisher": "ConcernedApe",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

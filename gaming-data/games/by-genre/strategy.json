@@ -1,0 +1,1256 @@
+[
+  {
+    "id": "game-0001",
+    "name": "A Total War Saga: TROY",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Set during the mythological Trojan War, TROY blends historical strategy with Greek legend as you command armies across the Aegean. Players choose from iconic heroes like Achilles and Hector, each with unique mechanics, managing resources, diplomacy and epic real-time battles. It was initially free on Epic Games Store at launch, making it one of gaming's most downloaded titles.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": 73,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Creative Assembly Sofia",
+      "publisher": "SEGA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0002",
+    "name": "Age of Empires II: Definitive Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "The definitive remaster of one of the greatest RTS games ever made, featuring all expansions plus new civilizations, a 4K visual overhaul, and remastered soundtrack. Players build civilizations from the Dark Age to the Imperial Age across 35+ campaigns spanning history from the Britons to the Persians. Its active multiplayer community and mod support have kept it thriving for 25 years.",
+    "ratings": {
+      "metacritic": 92,
+      "steam": 97,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Forgotten Empires",
+      "publisher": "Xbox Game Studios",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0003",
+    "name": "Age of Empires IV",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A modern reimagining of the classic RTS franchise, set across four major historical periods with eight distinct civilizations each featuring asymmetric mechanics. Developed by Relic Entertainment, it introduces tactical documentary overlays, a revamped siege system, and deep campaign storytelling. The game balances accessibility for newcomers with deep strategic options for veterans.",
+    "ratings": {
+      "metacritic": 81,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Relic Entertainment",
+      "publisher": "Xbox Game Studios",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0004",
+    "name": "Age of Mythology: Retold",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A full remake of the beloved 2002 mythology-based RTS, letting players command armies backed by gods from Greek, Egyptian, Norse and Atlantean pantheons. Each civilization worships different gods granting powerful mythological units and divine powers that shift the tide of battle. The Retold edition brings fully remodelled visuals, reworked balance, and optional cross-play.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "World's Edge / Forgotten Empires",
+      "publisher": "Xbox Game Studios",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0010",
+    "name": "Company of Heroes 2",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A brutally realistic WWII real-time strategy game set on the Eastern Front, where Soviet forces battle the Wehrmacht across frozen Russian landscapes with dynamic weather that affects unit movement and morale. The TrueSight line-of-sight system and destructible cover make each engagement tense and tactical. Its multiplayer remains active and includes multiple faction expansions.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2013,
+      "developer": "Relic Entertainment",
+      "publisher": "SEGA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0014",
+    "name": "Gears Tactics",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Xbox App",
+    "synopsis": "A turn-based tactics game set 12 years before the original Gears of War, following Gabe Diaz as he assembles a squad to hunt a monstrous Locust general. It adapts XCOM-style grid combat to the Gears universe with the franchise's signature aggression and gore, rewarding offensive play with extra action points. Its boss encounters are some of the most spectacular set-pieces in the tactics genre.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 89,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "The Coalition / Splash Damage",
+      "publisher": "Xbox Game Studios",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0018",
+    "name": "Hearts of Iron IV",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Paradox's grand strategy wargame covering the entire World War II era, letting players guide any nation through diplomacy, military doctrine, industrial planning and battle. The game's depth is staggering — players design tank divisions, negotiate political alliances, and manage supply lines across the entire globe. An enormous modding community has produced alternate history scenarios spanning Kaiserreich to The New Order.",
+    "ratings": {
+      "metacritic": 81,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Paradox Development Studio",
+      "publisher": "Paradox Interactive",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0022",
+    "name": "Humankind",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Amplitude Studios' answer to Civilization lets players combine 60 historical cultures across six eras to create a unique civilisation — mixing Vikings with Egyptians or Romans with Mongols. Its fame-based victory system rewards cultural achievement and military prowess equally. It features one of the most scientifically accurate historical representations in any strategy game.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": 71,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Amplitude Studios",
+      "publisher": "SEGA",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0030",
+    "name": "Old World",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Designed by Civilization IV lead designer Soren Johnson, Old World brings a dynastic twist to 4X strategy as your ruler ages, has children, and navigates court intrigue across ancient history from Assyria to Rome. Orders are a limited resource that forces agonising choices each turn between military expansion, family drama and cultural development. It is one of the most praised 4X games of the 2020s.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": 93,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Mohawk Games",
+      "publisher": "Hooded Horse",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0035",
+    "name": "Rise of Nations: Extended Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Brian Reynolds' masterpiece RTS spanning 6,000 years of history from the Ancient Age to the Information Age, combining Civilization-style territory control with real-time base building and combat. Its Conquer the World campaign mode wraps multiplayer battles in a Risk-like strategic layer. The Extended Edition added graphical upgrades and Steam multiplayer to this 2003 classic.",
+    "ratings": {
+      "metacritic": null,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "Big Huge Games",
+      "publisher": "Xbox Game Studios",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0040",
+    "name": "Sid Meier's Civilization V",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "The fifth iteration of Firaxis' legendary 4X franchise introduced hexagonal tiles, one-unit-per-tile combat and a city-state diplomacy system that fundamentally changed strategy gaming. Players lead a historical civilisation from prehistory to the space age through culture, science, faith, diplomacy or conquest. With its Brave New World and Gods & Kings expansions it is considered the peak of the franchise by many fans.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2010,
+      "developer": "Firaxis Games",
+      "publisher": "2K Games",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0041",
+    "name": "Sid Meier's Civilization VII",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "The seventh mainline entry in the legendary 4X series introduces a revolutionary Age system that resets the map and civilisation choices three times per game, forcing strategic pivots. For the first time, leaders and civilisations are decoupled, letting players pair historical figures with any culture. Early reception praised the innovation but noted interface and content gaps at launch.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": 61,
+      "steamLabel": "Mixed"
+    },
+    "releaseInfo": {
+      "year": 2025,
+      "developer": "Firaxis Games",
+      "publisher": "2K Games",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0043",
+    "name": "Stellaris",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Paradox's space 4X grand strategy game lets players design a custom alien civilisation and guide it from first contact to galactic supremacy across a procedurally generated universe of stars and anomalies. The game's event chains and emergent crises — from ancient fallen empires to extradimensional horrors — create stories unlike any scripted campaign. A decade of expansions has built one of the deepest strategy games ever made.",
+    "ratings": {
+      "metacritic": 78,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Paradox Development Studio",
+      "publisher": "Paradox Interactive",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0044",
+    "name": "Terra Invicta",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A near-future grand strategy game where seven ideologically opposed factions compete to control Earth and colonise the solar system in response to an alien invasion. Players manage national politics, research space technology, build orbital stations and deploy agents in an extraordinarily complex simulation that treats spaceflight with hard science accuracy. It is considered the most ambitious indie strategy game of the 2020s.",
+    "ratings": {
+      "metacritic": null,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Pavonis Interactive",
+      "publisher": "Hooded Horse",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0045",
+    "name": "Total War: SHOGUN 2",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Creative Assembly's critically acclaimed return to feudal Japan, where rival daimyos fight to unite Japan under their banner through political intrigue, siege warfare and samurai blade combat. The focused Japanese setting gives it a coherent aesthetic and thematic identity that later entries struggled to match. Its Fall of the Samurai expansion adds a stunning Meiji Restoration era with gunpowder revolutionising the battlefield.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": 93,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2011,
+      "developer": "Creative Assembly",
+      "publisher": "SEGA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0046",
+    "name": "Total War: THREE KINGDOMS",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Set during China's legendary Three Kingdoms era, players choose from historical or semi-mythological warlords to reunify China through diplomacy, assassination and massive real-time battles. The Romance mode treats heroes as near-supernatural warriors who duel on the battlefield, while the Records mode plays as strict historical simulation. Its diplomacy system was the most sophisticated in Total War history at launch.",
+    "ratings": {
+      "metacritic": 81,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Creative Assembly",
+      "publisher": "SEGA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0047",
+    "name": "Total War: WARHAMMER II",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "The second entry in Creative Assembly's Warhammer trilogy brings four fantasy races — High Elves, Dark Elves, Lizardmen and Skaven — battling across the New World in a race to control the Great Vortex. Owners of the first game unlock a combined Mortal Empires campaign of unprecedented size. It is widely considered the finest Total War game ever made.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": 92,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Creative Assembly",
+      "publisher": "SEGA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0052",
+    "name": "Victoria 3",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Paradox's long-awaited sequel to their beloved Victorian-era grand strategy game simulates the economic and social transformation of the 19th century, letting players industrialise nations, abolish slavery, navigate colonialism and manage pop-level citizen happiness. Its economic simulation is the most detailed Paradox has ever made. A heavily modded and patched game that grew significantly post-launch.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": 80,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Paradox Development Studio",
+      "publisher": "Paradox Interactive",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0053",
+    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A XCOM-style tactics game where players command Grey Knights — the most elite psyker warriors of the Imperium — to hunt a galaxy-threatening plague across procedurally generated starships and plague worlds. Grey Knights level up through a deep class tree and can be customised with psychic powers and wargear. It is considered the finest Warhammer 40K tactics game ever made.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 85,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Complex Games",
+      "publisher": "Frontier Foundry",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0120",
+    "name": "A Total War Saga: THRONES OF BRITANNIA",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A focused Total War experience set during the Viking Age, following the fragmentation of Britain after Alfred the Great's death. Players choose from ten kingdoms competing to forge a unified Britain through campaign politics, battlefield command and territorial expansion. Its condensed scope makes it one of the most accessible Total War entries for newcomers.",
+    "ratings": {
+      "metacritic": 65,
+      "steam": 72,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Creative Assembly",
+      "publisher": "SEGA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0121",
+    "name": "Age of Empires III: Definitive Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "The definitive edition of Ensemble Studios' colonial-era RTS featuring all expansions and two new civilisations including the Swedes and Inca. Players build settlements, manage trade routes and command armies from the age of exploration through to the industrial era. Its Home City card system remains one of the most unique mechanics in the RTS genre.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": 85,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Forgotten Empires",
+      "publisher": "Xbox Game Studios",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0122",
+    "name": "Age of Empires IV: Anniversary Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "The Anniversary Edition of Age of Empires IV bundles the base game with post-launch civilisations including the Ottomans, Malians, Japanese and Byzantines alongside the Anniversary update's ranked seasons and improved AI. It is the most complete version of Relic's acclaimed modern reimagining of the classic RTS franchise.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Relic Entertainment",
+      "publisher": "Xbox Game Studios",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0123",
+    "name": "Age of Empires: Definitive Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A complete remaster of the 1997 original with 4K visuals, remastered music and all the Forgotten Empires expansion content. Players command ancient civilisations from the Stone Age through the Iron Age in historically inspired campaign missions and multiplayer. It is the essential starting point for the legendary Age of Empires franchise.",
+    "ratings": {
+      "metacritic": 68,
+      "steam": 79,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Forgotten Empires",
+      "publisher": "Xbox Game Studios",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0124",
+    "name": "Age of History 3",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A turn-based grand strategy game covering the entire history of human civilisation from ancient times to the modern era. Players take control of any nation on a detailed world map and guide it through diplomacy, war and economic development across thousands of years. Its simple interface belies remarkable strategic depth.",
+    "ratings": {
+      "metacritic": null,
+      "steam": 74,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Łukasz Jakowski",
+      "publisher": "Łukasz Jakowski",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0125",
+    "name": "Age of Mythology: Extended Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "The extended version of Ensemble's mythology-themed RTS classic adds the Tale of the Dragon campaign with Chinese civilisation alongside the original Greek, Egyptian and Norse factions. Each pantheon commands different gods who grant unique myth units and divine powers. It remains one of the most beloved entries in the RTS genre.",
+    "ratings": {
+      "metacritic": null,
+      "steam": 81,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "Ensemble Studios / SkyBox Labs",
+      "publisher": "Xbox Game Studios",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0126",
+    "name": "Age of Wonders: Planetfall",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A sci-fi 4X turn-based strategy game set in the ruins of a fallen intergalactic empire where six factions compete to reshape the galaxy. Players research technologies, conduct diplomacy, form alliances and command armies in turn-based tactical battles across planets and moons. Its faction customisation system allows enormous build variety.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Triumph Studios",
+      "publisher": "Paradox Interactive",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0168",
+    "name": "Company of Heroes",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Widely considered the greatest WWII RTS ever made, Company of Heroes revolutionised the genre with its physics-based destructible environments, realistic line-of-sight, and strategic use of cover. Every battle plays differently as players adapt to changing cover conditions. Its Normandy campaign and Eastern Front expansion remain genre benchmarks over two decades later.",
+    "ratings": {
+      "metacritic": 93,
+      "steam": 90,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2006,
+      "developer": "Relic Entertainment",
+      "publisher": "THQ",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0169",
+    "name": "Company of Heroes - Legacy Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0170",
+    "name": "Company of Heroes 3",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "The long-awaited third entry in Relic's legendary WWII RTS franchise focuses on the Italian and North African campaigns, introducing a pausable operational map layer that wraps campaign battles in a strategic context. While praised for its Mediterranean setting and new factions, some fans felt it lacked the focused design of its predecessors at launch.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": 72,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Relic Entertainment",
+      "publisher": "SEGA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0177",
+    "name": "Crusader Kings III",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Paradox's grand strategy/RPG hybrid lets players control a medieval dynasty from 867 or 1066 AD, marrying, murdering, converting and conquering across centuries of European and Middle Eastern history. The game's focus on character relationships — murder plots, seductions, inheritance crises — makes it more RPG than traditional strategy. Its meme-worthy stories of dynastic catastrophes have made it one of gaming's most shared experiences.",
+    "ratings": {
+      "metacritic": 91,
+      "steam": 87,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Paradox Development Studio",
+      "publisher": "Paradox Interactive",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0201",
+    "name": "Europa Universalis IV",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Paradox's grand strategy masterpiece covers 400 years of history from 1444 to 1821, letting players guide any nation through exploration, colonisation, trade, war and religious upheaval. Every run tells a completely different story — from building the Aztec Empire into a global superpower to surviving as tiny Venice. Its extraordinary depth has supported over a decade of expansion content.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": 86,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2013,
+      "developer": "Paradox Development Studio",
+      "publisher": "Paradox Interactive",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0232",
+    "name": "Hearts of Iron III",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0246",
+    "name": "Iron Harvest",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A diesel-punk RTS set in the 1920s of the Scythe board game universe where giant mechs roam a war-scarred Europe. Players command three factions — Saxony Empire, Polania Republic and Rusviet — across single-player campaigns and competitive multiplayer with classic Company of Heroes-inspired cover and tactical depth.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": 80,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "KING Art Games",
+      "publisher": "KING Art Games",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0254",
+    "name": "Knights of Honor II: Sovereign",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A medieval grand strategy game blending real-time kingdom management with simplified tactical battles across Europe and the Middle East. Players manage their Royal Court, send Knights on diplomatic or military missions, and grow their kingdom through trade, religion and warfare. Its streamlined approach makes grand strategy accessible without sacrificing the core fantasy of medieval empire building.",
+    "ratings": {
+      "metacritic": 73,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Black Sea Games",
+      "publisher": "THQ Nordic",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0276",
+    "name": "Northgard: Definitive Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0279",
+    "name": "Panzer Corps",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "The definitive operational WWII hex-based strategy game, covering every major theatre with historical accuracy and extensive unit rosters from early Blitzkrieg through the fall of Berlin. Its prestige system lets players build a personalised veteran corps carried across the entire Grand Campaign. The Eastern Front expansion is considered one of the finest wargames ever produced.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Flashback Games",
+      "publisher": "Slitherine",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0280",
+    "name": "Panzer Corps 2",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "The definitive operational WWII hex-based strategy game, covering every major theatre with historical accuracy and extensive unit rosters from early Blitzkrieg through the fall of Berlin. Its prestige system lets players build a personalised veteran corps carried across the entire Grand Campaign. The Eastern Front expansion is considered one of the finest wargames ever produced.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Flashback Games",
+      "publisher": "Slitherine",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0301",
+    "name": "Sid Meier's Civilization VI",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "The sixth Civilization introduces a groundbreaking district system that physically separates cities into specialized zones — science campuses, industrial zones, holy sites — requiring genuine urban planning. Leaders feature stylised animated portraits with era-specific attitudes. The Rise and Fall and Gathering Storm expansions added loyalty mechanics and climate change as strategic factors.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Firaxis Games",
+      "publisher": "2K Games",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0317",
+    "name": "Steel Division 2",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0318",
+    "name": "Steel Division: Normandy 44",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "An operational WWII RTS focusing on the Normandy campaign with extraordinary historical accuracy — real unit designations, equipment and doctrine. Its three-phase battle system that divides each engagement into A, B and C phases creates dynamic front-line management. Its depth approaches wargame territory while remaining playable for RTS veterans.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 81,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Eugen Systems",
+      "publisher": "Paradox Interactive",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0348",
+    "name": "Total War: ATTILA",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Set during the twilight of the Roman Empire, players can either defend civilisation against the incoming Hunnic invasion or play as Attila himself to bring fire and sword across Europe. Its burning mechanics, apocalyptic migrations and challenging Roman survival scenarios make it one of the most atmospheric and difficult Total War entries.",
+    "ratings": {
+      "metacritic": 73,
+      "steam": 80,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "Creative Assembly",
+      "publisher": "SEGA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0349",
+    "name": "Total War: EMPIRE - Definitive Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0350",
+    "name": "Total War: MEDIEVAL II - Definitive Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0351",
+    "name": "Total War: NAPOLEON - Definitive Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0352",
+    "name": "Total War: PHARAOH",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0353",
+    "name": "Total War: PHARAOH DYNASTIES",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0354",
+    "name": "Total War: ROME II - Emperor Edition",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0355",
+    "name": "Total War: ROME REMASTERED",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A remaster of the 2004 original that launched the modern Total War era, updating the game to 4K with improved models while preserving the strategic and tactical essence that made it legendary. Players guide one of three Roman families or barbarian factions to Mediterranean domination. The remaster's fidelity to the original divides fans expecting more substantial changes.",
+    "ratings": {
+      "metacritic": 66,
+      "steam": 64,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Feral Interactive",
+      "publisher": "SEGA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0356",
+    "name": "Total War: WARHAMMER",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0367",
+    "name": "Victoria II",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Paradox's 19th century grand strategy simulation covering industrialisation, colonialism, class politics and nationalism from 1836 to 1936. Its pop system simulates every citizen's political beliefs, job and wealth creating emergent social revolutions. Despite its age and interface limitations, it remains the most sophisticated simulation of the Victorian era in any medium.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": 90,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2010,
+      "developer": "Paradox Development Studio",
+      "publisher": "Paradox Interactive",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0369",
+    "name": "Warhammer 40,000: Armageddon (Classic)",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0370",
+    "name": "Warhammer 40,000: Gladius - Relics of War",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0371",
+    "name": "Warhammer 40,000: Inquisitor - Martyr",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0372",
+    "name": "Warhammer 40,000: Inquisitor - Prophecy",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0381",
+    "name": "XCOM 2",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "Set 20 years after XCOM's failure, humanity lives under alien occupation as a propaganda-backed utopia and players command guerrilla forces aboard the Avenger mobile base. Its pod-based ambush system, timer-based missions and brutal permanent death for soldiers create extraordinary tension. War of the Chosen adds three nemesis faction aliens who dynamically hunt your squad.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": 89,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Firaxis Games",
+      "publisher": "2K Games",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0382",
+    "name": "XCOM: Chimera Squad",
+    "platform": "pc",
+    "genre": "Strategy",
+    "launcher": "Steam",
+    "synopsis": "A standalone spinoff following XCOM: 2's aftermath as human and alien agents form Chimera Squad to maintain peace in the integrated City 31. Breach mode — coordinated simultaneous entry through windows and doors — creates the series' most spectacular tactical moments. Its fixed named characters with unique abilities replace the traditional soldier customisation.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 86,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Firaxis Games",
+      "publisher": "2K Games",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0456",
+    "name": "Stellaris: Console Edition",
+    "platform": "ps5",
+    "genre": "Strategy",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

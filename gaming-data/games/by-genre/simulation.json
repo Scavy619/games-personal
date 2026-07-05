@@ -1,0 +1,860 @@
+[
+  {
+    "id": "game-0005",
+    "name": "Anno 1800",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Epic / Steam",
+    "synopsis": "A city-building and economic strategy game set during the Industrial Revolution, where players build sprawling metropolises, manage intricate production chains, and conduct diplomacy across multiple islands. Its sandbox campaign layers trade routes, factory automation and exploration voyages into a richly textured simulation. Anno 1800 received extensive post-launch DLC support making it one of the deepest entries in the franchise.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Ubisoft Blue Byte",
+      "publisher": "Ubisoft",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0009",
+    "name": "Cities: Skylines",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "The definitive modern city-builder that dethroned SimCity, offering tools to design road networks, zone districts, and manage utilities across sprawling metropolitan areas. Its depth comes from realistic traffic simulation, budget management and citizen happiness systems that make every city a unique puzzle. A massive modding community on Steam Workshop has produced thousands of assets and gameplay overhauls.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": 90,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "Colossal Order",
+      "publisher": "Paradox Interactive",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0026",
+    "name": "Manor Lords",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "A solo-developed medieval city builder and real-time strategy game where players organically grow a 14th century village into a fortified manor town, managing food, trade and military readiness. Its organic road-placement and granular supply chain simulation set it apart from genre peers. It sold over 1 million copies in its first three days on Steam Early Access in 2024.",
+    "ratings": {
+      "metacritic": null,
+      "steam": 81,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Slavic Magic",
+      "publisher": "Hooded Horse",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0031",
+    "name": "Planet Coaster",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "Frontier's theme park construction simulator lets players build roller coasters of impossible complexity using a flexible track tool that produces genuinely terrifying rides. Beyond coasters, players manage staff, guest happiness, finances and scenery in a vibrant sandbox. The game's Blueprint system lets the community share entire parks and ride designs.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 92,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Frontier Developments",
+      "publisher": "Frontier Developments",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0032",
+    "name": "Planet Zoo",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "A zoo management simulation with the most sophisticated animal behaviour AI in any game, where each of 90+ species has individual needs, personalities and genetic traits that players must manage to maintain welfare and breed conservation populations. Planet Zoo is considered the pinnacle of the management simulation genre with its museum-quality habitat building tools.",
+    "ratings": {
+      "metacritic": 81,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Frontier Developments",
+      "publisher": "Frontier Developments",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0048",
+    "name": "Transport Fever 2",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "A transport management simulation spanning 1850 to the present day where players build railway networks, bus routes and shipping lines to connect cities and grow their transport empire. Its detailed train models, realistic terrain deformation tools and organic city growth simulation appeal to enthusiasts. The modding community has added hundreds of real-world vehicles and maps.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": 87,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Urban Games",
+      "publisher": "Gambitious Digital Entertainment",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0050",
+    "name": "Tropico 6",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "Players rule a fictional Caribbean island nation as El Presidente, balancing the demands of factions — communists, capitalists, the military and the church — while building their banana republic across multiple islands. Its satirical tone skewers political systems with sharp humour as players build bridges, steal world wonders, and suppress or appease their citizens. The archipelago multi-island structure expands on all previous entries.",
+    "ratings": {
+      "metacritic": 73,
+      "steam": 80,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Limbic Entertainment",
+      "publisher": "Kalypso Media",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0051",
+    "name": "Two Point Campus",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "The spiritual successor to Theme Hospital tasks players with building and managing a series of increasingly bizarre universities — from a culinary school to a wizarding academy — balancing student needs, staff morale and course content. Its wit and charm match the management depth, with a campaign that escalates in wonderfully absurd directions. It was released day one on Game Pass.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Two Point Studios",
+      "publisher": "SEGA",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0055",
+    "name": "Workers & Resources: Soviet Republic",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "The most complex city builder ever made, simulating an entire Soviet-era economy from raw ore extraction through processing, manufacturing and distribution to consumer goods with real-time train, truck and power grid simulation. Players must physically lay cables, pipes and roads with exact precision. Its Early Access community is fiercely dedicated and it rivals real logistics software in depth.",
+    "ratings": {
+      "metacritic": null,
+      "steam": 93,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "3DIVISION",
+      "publisher": "3DIVISION",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0082",
+    "name": "Coral Island",
+    "platform": "ps5",
+    "genre": "Simulation",
+    "launcher": "PS5 Console",
+    "synopsis": "A tropical farming sim and life RPG set on a lush island whose coral reef is threatened by pollution, blending Stardew Valley's farm management loop with ocean conservation themes and a diverse cast of romance-able villagers. The Southeast Asian setting and inclusive representation are a distinctive feature. The full launch added extensive content to earlier well-received versions.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Stairway Games",
+      "publisher": "Fireshine Games",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0128",
+    "name": "American Truck Simulator",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "A trucking simulation game that lets players haul cargo across a beautifully recreated American Southwest spanning California, Nevada, Arizona and expanding states. The meditative drive across vast landscapes with a curated radio station is genuinely therapeutic and has attracted millions of players worldwide. Its active modding community continuously expands the map and vehicle roster.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": 94,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "SCS Software",
+      "publisher": "SCS Software",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0129",
+    "name": "Anno 2205",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "A sci-fi city builder set in the 23rd century where players build lunar colonies and terrestrial megacities as humanity expands into space. Its three region types — continental, arctic and lunar — each require different resource management strategies. The game streamlined the Anno formula for accessibility but divided fans of the deeper economics in earlier entries.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": 65,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "Ubisoft Blue Byte",
+      "publisher": "Ubisoft",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0144",
+    "name": "BeamNG.drive",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "A soft-body physics vehicle simulation where cars deform with unprecedented realism in crashes that have to be seen to be believed. Every vehicle component flexes, bends and breaks independently based on real physics. Its sandbox nature — from slow traffic driving to catastrophic crash testing — has made it one of the most streamed games on YouTube. Early Access to full release.",
+    "ratings": {
+      "metacritic": null,
+      "steam": 97,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "BeamNG",
+      "publisher": "BeamNG",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0161",
+    "name": "Car Mechanic Simulator 2018",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0162",
+    "name": "Cartel Tycoon",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0198",
+    "name": "Elite Dangerous",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "A 1:1 scale Milky Way simulation in the year 3309 where players can trade, fight, explore and mine across 400 billion procedurally generated star systems based on real astronomical data. The sheer sense of scale — flying across the observable galaxy takes real-world months — is unlike anything else. Its Odyssey expansion added on-foot planetary exploration.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": 77,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "Frontier Developments",
+      "publisher": "Frontier Developments",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0207",
+    "name": "Farm Manager 2021",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0218",
+    "name": "Frostpunk",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "A city-survival strategy game set in an apocalyptic ice age where players must keep the last city on Earth alive around its heat-generating Generator. Every decision carries moral weight — child labour, strict laws, hope vs discontent management — in a game that genuinely tests your ethics. The Book of Laws system creates some of gaming's most uncomfortable governing choices.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "11 bit studios",
+      "publisher": "11 bit studios",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0249",
+    "name": "Jurassic World Evolution 2",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0292",
+    "name": "Railroad Corporation",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0293",
+    "name": "Ranch Simulator",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0302",
+    "name": "Sid Meier's Railroads!",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0337",
+    "name": "The Sims 2 Legacy Collection",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0338",
+    "name": "The Sims 4",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Epic Games",
+    "synopsis": "EA's life simulation franchise went free-to-play in 2022, making its vast library of expansion packs, game packs and stuff packs accessible to everyone. Players create and control virtual people across homes, careers and relationships with extraordinary creativity tools. Its modding community has produced content of remarkable quality including full overhauls.",
+    "ratings": {
+      "metacritic": 70,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "Maxis",
+      "publisher": "EA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0361",
+    "name": "Transport Fever",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0364",
+    "name": "Two Point Hospital",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "A spiritual successor to Theme Hospital from the original team, placing players in charge of increasingly absurd hospitals treating fictional diseases like 'Boggled Mind' and 'Fake Plague'. Its dry British humour, satire-filled radio station and genuine management depth make it one of the most delightful simulation games of the decade. The Creative Hospital DLC expanded building tools significantly.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": 92,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "Two Point Studios",
+      "publisher": "SEGA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0383",
+    "name": "Zoo Tycoon",
+    "platform": "pc",
+    "genre": "Simulation",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0403",
+    "name": "Anno 1800 Console Edition",
+    "platform": "ps5",
+    "genre": "Simulation",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0407",
+    "name": "Blocky Farm",
+    "platform": "ps5",
+    "genre": "Simulation",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0418",
+    "name": "Farming Simulator 25",
+    "platform": "ps5",
+    "genre": "Simulation",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0444",
+    "name": "PowerWash Simulator",
+    "platform": "ps5",
+    "genre": "Simulation",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0564",
+    "name": "Erica",
+    "platform": "ps4",
+    "genre": "Simulation",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "A trucking simulation game that lets players haul cargo across a beautifully recreated American Southwest spanning California, Nevada, Arizona and expanding states. The meditative drive across vast landscapes with a curated radio station is genuinely therapeutic and has attracted millions of players worldwide. Its active modding community continuously expands the map and vehicle roster.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": 94,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "SCS Software",
+      "publisher": "SCS Software",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0573",
+    "name": "Farming Simulator 22",
+    "platform": "ps4",
+    "genre": "Simulation",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0618",
+    "name": "Jurassic World Evolution",
+    "platform": "ps4",
+    "genre": "Simulation",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0682",
+    "name": "Planet Coaster 2",
+    "platform": "ps4",
+    "genre": "Simulation",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0706",
+    "name": "Slime Rancher 2",
+    "platform": "ps4",
+    "genre": "Simulation",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0739",
+    "name": "The Fisherman - Fishing Planet",
+    "platform": "ps4",
+    "genre": "Simulation",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0758",
+    "name": "Train Sim World 5",
+    "platform": "ps4",
+    "genre": "Simulation",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0761",
+    "name": "Tropico 5",
+    "platform": "ps4",
+    "genre": "Simulation",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

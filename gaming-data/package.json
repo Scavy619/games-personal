@@ -1,0 +1,27 @@
+{
+  "name": "gaming-data",
+  "version": "1.0.0",
+  "description": "Structured gaming data repository for enhancement and multi-site deployment",
+  "main": "lib/gaming-data.js",
+  "types": "lib/gaming-data.ts",
+  "scripts": {
+    "process": "node scripts/process-games-data.js",
+    "validate": "node scripts/validate-data.js",
+    "export:csv": "node scripts/export-to-csv.js",
+    "enhance": "node scripts/enhance-games.js",
+    "build": "tsc",
+    "clean": "rm -rf games/organized games/by-genre games/by-platform analytics metadata"
+  },
+  "keywords": [
+    "gaming",
+    "data",
+    "games",
+    "export",
+    "portfolio"
+  ],
+  "author": "Scavy",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

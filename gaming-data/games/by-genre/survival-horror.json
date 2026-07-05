@@ -1,0 +1,244 @@
+[
+  {
+    "id": "game-0034",
+    "name": "Resident Evil 7 Biohazard",
+    "platform": "pc",
+    "genre": "Survival Horror",
+    "launcher": "Steam",
+    "synopsis": "A radical first-person reinvention of Resident Evil that strips the series back to pure survival horror, placing Ethan Winters in a derelict Louisiana plantation held by a family of infected cannibalistic hillbillies. Resource scarcity, grotesque monster design and unrelenting tension make it one of the scariest games ever made. Its full VR support in PSVR created legendary horror experiences.",
+    "ratings": {
+      "metacritic": 86,
+      "steam": 91,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0056",
+    "name": "Alan Wake II",
+    "platform": "ps5",
+    "genre": "Survival Horror",
+    "launcher": "PS5 Console",
+    "synopsis": "Remedy Entertainment's long-awaited sequel sends troubled writer Alan Wake deeper into the Dark Place while FBI agent Saga Anderson investigates ritual murders in a Pacific Northwest logging town. The game blends psychological horror, metafictional storytelling, and live-action cutscenes into an experience unlike anything else in gaming. It won numerous Game of the Year awards and is Remedy's masterpiece.",
+    "ratings": {
+      "metacritic": 89,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Remedy Entertainment",
+      "publisher": "Epic Games Publishing",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0127",
+    "name": "Alan Wake",
+    "platform": "pc",
+    "genre": "Survival Horror",
+    "launcher": "Steam",
+    "synopsis": "Stephen King-inspired psychological horror thriller about bestselling novelist Alan Wake who arrives in Bright Falls, Washington only to find reality unravelling as the dark plot he cannot remember writing begins to come true. The game uses light as its primary mechanic — players must first burn away enemies' darkness before shooting them. Its Twin Peaks atmosphere is exceptional.",
+    "ratings": {
+      "metacritic": 83,
+      "steam": 86,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2012,
+      "developer": "Remedy Entertainment",
+      "publisher": "Remedy Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0180",
+    "name": "Dead Space 3",
+    "platform": "pc",
+    "genre": "Survival Horror",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0401",
+    "name": "Alan Wake 2",
+    "platform": "ps5",
+    "genre": "Survival Horror",
+    "launcher": "PS5 Console",
+    "synopsis": "Remedy's genre-defining survival horror sequel follows both FBI agent Saga Anderson investigating ritual murders in Bright Falls and Alan Wake himself trapped in the Dark Place — a nightmarish version of New York where fiction becomes reality. Its live-action sequences, layered metafiction and stunning visuals represent the most artistically ambitious game Remedy has ever produced.",
+    "ratings": {
+      "metacritic": 89,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Remedy Entertainment",
+      "publisher": "Epic Games Publishing",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0543",
+    "name": "Dead Space",
+    "platform": "ps4",
+    "genre": "Survival Horror",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0694",
+    "name": "RESIDENT EVIL 2",
+    "platform": "ps4",
+    "genre": "Survival Horror",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0695",
+    "name": "Resident Evil Village",
+    "platform": "ps4",
+    "genre": "Survival Horror",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0702",
+    "name": "SILENT HILL 2",
+    "platform": "ps4",
+    "genre": "Survival Horror",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0737",
+    "name": "The Callisto Protocol",
+    "platform": "ps4",
+    "genre": "Survival Horror",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0743",
+    "name": "The Outlast Trials",
+    "platform": "ps4",
+    "genre": "Survival Horror",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

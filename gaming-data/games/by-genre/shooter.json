@@ -1,0 +1,90 @@
+[
+  {
+    "id": "game-0015",
+    "name": "Gears of War 4",
+    "platform": "pc",
+    "genre": "Shooter",
+    "launcher": "Xbox App",
+    "synopsis": "The fifth entry in the Gears franchise following JD Fenix, son of Marcus Fenix, as a new generation of soldiers face a terrifying new enemy called the Swarm that has evolved from the Locust Horde. It retains the iconic cover-based shooting and co-op Horde mode while adding new enemy types and a gripping father-son narrative. The game launched alongside the Xbox Play Anywhere initiative.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "The Coalition",
+      "publisher": "Xbox Game Studios",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0027",
+    "name": "Max Payne 3",
+    "platform": "pc",
+    "genre": "Shooter",
+    "launcher": "Steam",
+    "synopsis": "Max Payne is now a burned-out mercenary in São Paulo protecting a billionaire's family from Brazilian street gangs in Rockstar's cinematic action masterpiece. The bullet-time shooting system reaches its mechanical peak here with seamless dive-and-shoot set-pieces set to a stunning HEALTH soundtrack. The single-player runs nearly 12 hours of pure cinematic action.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": 90,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2012,
+      "developer": "Rockstar Studios",
+      "publisher": "Rockstar Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0219",
+    "name": "Gears 5",
+    "platform": "pc",
+    "genre": "Shooter",
+    "launcher": "Steam",
+    "synopsis": "The fifth Gears entry switches perspective to Kait Diaz as she investigates her connection to the Swarm and the Locust Queen. Its third act opens an enormous open world map traversed by Skiff vehicle, a dramatic departure for the series. The acclaimed Escape mode and Horde mode's tower defence improvements make this the most mechanically varied Gears game.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "The Coalition",
+      "publisher": "Xbox Game Studios",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0447",
+    "name": "Returnal",
+    "platform": "ps5",
+    "genre": "Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Selene Vassos crashes on the planet Atropos and finds herself trapped in a time loop, dying and restarting — but retaining memories of her previous cycles. Its bullet-hell combat, alien world exploration and Lynchian psychological horror narrative make it one of PS5's most demanding and distinctive experiences. The DualSense implementation — adaptive triggers for each weapon — is extraordinary.",
+    "ratings": {
+      "metacritic": 86,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Housemarque",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

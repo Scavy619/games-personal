@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "game-0007",
+    "name": "Battlefield 3",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "DICE's landmark military shooter set across global conflicts including Tehran, Paris and New York, featuring the Frostbite 2 engine with destructible environments. The multiplayer introduced Conquest and Rush modes that defined a generation of FPS games, with 64-player battles across massive maps. Its single-player follows a US Marine investigating a PLR terrorist plot.",
+    "ratings": {
+      "metacritic": 89,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2011,
+      "developer": "DICE",
+      "publisher": "EA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0008",
+    "name": "Chivalry 2",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Epic Games",
+    "synopsis": "A first-person medieval melee multiplayer game featuring 64-player team objective battles across castles, villages and siege scenarios. Players hack, slash and block with swords, axes and polearms using a fluid directional combat system that rewards timing and aggression. It is notorious for its chaotic screaming-charge gameplay and dark comedy.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Torn Banner Studios",
+      "publisher": "Tripwire Interactive",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0013",
+    "name": "Far Cry Primal",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Xbox App",
+    "synopsis": "Set in 10,000 BC during the Stone Age, players tame animals, craft weapons from bone and wood, and fight rival tribes to reclaim their homeland in a prehistoric open world. The absence of firearms is replaced by spears, bows and fire, making combat rawer and more primal than the main series. Players can tame predators like sabretooth tigers and cave bears as companions.",
+    "ratings": {
+      "metacritic": 76,
+      "steam": 73,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0016",
+    "name": "Ghost Recon Breakpoint",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "An open-world tactical shooter set on the fictional island of Auroa, where an elite US spec-ops soldier must survive behind enemy lines against rogue Ghosts led by Cole D. Walker. Players can approach missions stealthily or with overwhelming force across a vast island of deserts, jungles and mountain ranges. Post-launch updates added an Immersive Mode removing RPG elements to restore the tactical feel.",
+    "ratings": {
+      "metacritic": 58,
+      "steam": 67,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Ubisoft Paris",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0019",
+    "name": "High On Life",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "A first-person shooter written by the Rick and Morty team where your weapons are sentient talking aliens who comment on everything you do, as you hunt a drug cartel that wants to get high on humanity. The game's humour is deeply self-aware and divisive — wall-to-wall meta-commentary and a surreal alien world. Despite polarising reviews it was the biggest Xbox Game Pass launch of 2022.",
+    "ratings": {
+      "metacritic": 68,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Squanch Games",
+      "publisher": "Squanch Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0023",
+    "name": "Insurgency: Sandstorm",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Xbox App",
+    "synopsis": "A hardcore tactical shooter with near-zero HUD, demanding players rely on real communication, cover and suppression to survive against human opponents across Middle Eastern environments. Its audio design — with directional gunfire, radio chatter, and the crack of bullets — creates genuine fear. Free post-launch updates have added maps, modes and cosmetics over five years.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 90,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "New World Interactive",
+      "publisher": "Focus Home Interactive",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0036",
+    "name": "RoboCop: Rogue City",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Epic Games",
+    "synopsis": "A first-person shooter set directly between RoboCop 2 and 3, where Detroit's most iconic law enforcement officer investigates a city-wide gang war while confronting his own humanity. The game nails the tone of the original films with slow deliberate movement, bone-crunching gunplay and genuinely clever police work side-quests. Fans called it the most faithful video game adaptation of an 80s action movie ever made.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": 90,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Teyon",
+      "publisher": "Nacon",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0039",
+    "name": "Shadow Tactics: Blades of the Shogun",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "A hardcore real-time tactics game set in Edo-period Japan where players command five specialists — samurai, ninja, sniper, thief and child — to eliminate enemies using patience, timing and environmental traps. Each character has unique abilities that must be combined to solve handcrafted levels. It is widely regarded as one of the finest tactical games ever made and spawned the Desperados series.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": 97,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Mimimi Games",
+      "publisher": "Daedalic Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0042",
+    "name": "Sniper Elite 3",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Set in WWII North Africa, players take long-range shots against German targets using authentic ballistics that account for wind, gravity and heartbeat in a tactical sandbox. The signature X-ray kill cam renders every successful shot in gruesome slow-motion anatomical detail. Players can approach objectives stealthily or initiate firefights across open desert environments with multiple route options.",
+    "ratings": {
+      "metacritic": 70,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "Rebellion Developments",
+      "publisher": "Rebellion Developments",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0060",
+    "name": "Avatar: Frontiers of Pandora",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Set in the Western Frontier of Pandora, players take the role of a Na'vi raised by the RDA who must reconnect with their culture and fight back against the corporation's exploitation. Massive Entertainment's first-person open world is visually stunning with bioluminescent environments and flying banshee traversal. The story and gameplay mechanics received more mixed reviews than its extraordinary visuals.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Massive Entertainment",
+      "publisher": "Ubisoft",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0061",
+    "name": "Battlefield 2042",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Set in a near-future world destabilised by climate collapse, 2042 launched with 128-player battles on giant maps, specialist operators and a portal mode revisiting classic Battlefield games. Its disastrous launch — missing a campaign, scoreboards, and basic features — became infamous. Post-launch updates added the missing features and significantly improved reception over time.",
+    "ratings": {
+      "metacritic": 68,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "DICE",
+      "publisher": "EA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0062",
+    "name": "CoD: Modern Warfare II",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "A sequel to the 2019 reboot following Task Force 141 across a global manhunt involving a Mexican cartel, a rogue Iranian general and stolen US ballistic missiles. The campaign is one of the most cinematic and varied in Call of Duty history, while the multiplayer introduced new mechanics like vehicle-based modes and improved map design. It became the fastest-selling CoD game at launch.",
+    "ratings": {
+      "metacritic": 77,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Infinity Ward",
+      "publisher": "Activision",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0071",
+    "name": "Hell Let Loose",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "A hardcore WWII team multiplayer shooter for 100 players demanding real communication, tactical coordination and role discipline across authentic historical battles including Omaha Beach, Kursk and the Battle of the Bulge. Supply lines, artillery coordination and officer commands create emergent military tactics unlike any other shooter. Its learning curve is steep but the payoff is extraordinary immersion.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Black Matter",
+      "publisher": "Team17",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0080",
+    "name": "The Last of Us Part I",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Naughty Dog's ground-up PS5 remake of their 2013 masterpiece follows Joel, a hardened survivor, escorting teenager Ellie across a post-pandemic America populated by clickers and desperate humans. The rebuilt visuals run at native 4K/60fps with DualSense haptics, while the AI, animations and accessibility options have all been substantially upgraded. It remains one of the most emotionally powerful narratives in gaming.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Naughty Dog",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0089",
+    "name": "Battlefield V",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "DICE's WWII shooter focused on lesser-told stories of the conflict through War Stories campaigns following a Norwegian resistance fighter, a North African tank crew, and a French colonial soldier. Tides of War live service added new maps, the Pacific theatre, and a Battle Royale mode. Its initial marketing controversies overshadowed a genuinely excellent and authentic WWII shooter at launch.",
+    "ratings": {
+      "metacritic": 81,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2018,
+      "developer": "DICE",
+      "publisher": "EA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0090",
+    "name": "Call of Duty: WWII",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Sledgehammer Games returned Call of Duty to World War II with a personal story following Private Daniels and the 1st Infantry Division from D-Day through the liberation of Paris to Germany. The return to boots-on-the-ground gameplay — no exo suits, no wall-running — was widely praised as a course correction for the franchise. Its Nazi Zombies mode is among the best the series has produced.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Sledgehammer Games",
+      "publisher": "Activision",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0111",
+    "name": "Sniper Elite 5",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Set in occupied France in 1944, OSS sniper Karl Fairburne investigates Operation Kraken across large open maps with multiple mission approaches and the franchise's signature X-ray kill cam. The Invasion mode allows another player to enter your campaign as a sniper assassin hunting you down. It is the most feature-complete Sniper Elite game and the best entry in the franchise.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": 85,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Rebellion Developments",
+      "publisher": "Rebellion Developments",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0113",
+    "name": "The Order: 1886",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Ready at Dawn's visually lavish Victorian London third-person shooter follows the Order of the Round Table — immortal knights using Tesla-era super-science — hunting half-breed werewolf creatures and a rebel uprising. Its cinematic presentation and black-bar letterboxing were extraordinary in 2015, though critics found the 6-hour campaign too short and gameplay too shallow. A visual tech showcase of the era.",
+    "ratings": {
+      "metacritic": 63,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "Ready at Dawn",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0116",
+    "name": "Titanfall 2",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Respawn's masterpiece FPS pairs a surprisingly emotional campaign — following pilot Jack Cooper and his Titan BT-7274 stranded behind enemy lines — with the most kinetic and creatively designed multiplayer shooter of its generation. Wall-running, grappling, and switching between nimble pilot and stomping Titan creates a movement language unlike any other FPS. Sandwiched between two gaming giants at launch, it has been perpetually discovered and loved ever since.",
+    "ratings": {
+      "metacritic": 89,
+      "steam": 93,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2016,
+      "developer": "Respawn Entertainment",
+      "publisher": "EA",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0118",
+    "name": "Warframe",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Digital Extremes' free-to-play third-person shooter casts players as ancient warriors called Tenno piloting powerful biomechanical suits called Warframes across a sci-fi solar system. Its fluid movement system combining wall-running, bullet-jumping and acrobatic melee is among the best in any action game. Over a decade of free updates have added new open worlds, cinematic quests and hundreds of Warframes.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2013,
+      "developer": "Digital Extremes",
+      "publisher": "Digital Extremes",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0130",
+    "name": "Apex Legends",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Epic Games",
+    "synopsis": "EA and Respawn's free-to-play battle royale set in the Titanfall universe combines hero shooter abilities with a polished squad-based last-team-standing format. Its ping communication system was so revolutionary it has been copied by virtually every battle royale since launch. The game continues to receive new Legends, maps and seasonal content.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": 67,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Respawn Entertainment",
+      "publisher": "EA",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0131",
+    "name": "Arma 3",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "The most realistic military simulation game available, featuring authentic infantry tactics, vehicle warfare and combined arms operations across a massive Mediterranean island. Its modding ecosystem has spawned Battle Royale as a genre (DayZ and PUBG both originated here), and its community creates content of extraordinary quality. Arma 3 rewards patience with unmatched tactical depth.",
+    "ratings": {
+      "metacritic": 74,
+      "steam": 87,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2013,
+      "developer": "Bohemia Interactive",
+      "publisher": "Bohemia Interactive",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0137",
+    "name": "Back 4 Blood",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Spiritual successor to Left 4 Dead from the original creators, featuring squad-based co-op shooting against hordes of mutated zombies called Ridden. A card-based system lets players customise builds before each mission for different playstyles. Its stronger solo campaign compared to L4D and continued post-launch support built a dedicated community.",
+    "ratings": {
+      "metacritic": 72,
+      "steam": 67,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Turtle Rock Studios",
+      "publisher": "WB Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0147",
+    "name": "BioShock",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Andrew Ryan's libertarian underwater city of Rapture has collapsed into a civil war between genetically modified splicers, and you must survive using plasmids — genetic modifications giving powers like electricity and telekinesis — alongside conventional firearms. Its 'Would you kindly' twist is one of gaming's most celebrated narrative moments. A masterclass in environmental storytelling.",
+    "ratings": {
+      "metacritic": 96,
+      "steam": 92,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2007,
+      "developer": "Irrational Games",
+      "publisher": "2K Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0148",
+    "name": "BioShock 2",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Players control Subject Delta, the first Big Daddy, returning to a decaying Rapture now under the control of collectivist philosopher Sofia Lamb. The Big Daddy perspective gives a fresh emotional dimension and the mechanics are refined over the original. Its competitive multiplayer set in Rapture's heyday was a fascinating experiment.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2010,
+      "developer": "2K Marin",
+      "publisher": "2K Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0149",
+    "name": "BioShock 2 Remastered",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0150",
+    "name": "BioShock Infinite",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Pinkerton agent Booker DeWitt rescues the mysterious Elizabeth from the floating city of Columbia, a violent American exceptionalism utopia in the sky. The game's Tears mechanic and Elizabeth's ability to open portals to parallel realities build to one of the most mind-bending narrative endings in gaming. The Burial at Sea DLC ties the story back to Rapture.",
+    "ratings": {
+      "metacritic": 94,
+      "steam": 93,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2013,
+      "developer": "Irrational Games",
+      "publisher": "2K Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0151",
+    "name": "BioShock Remastered",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0157",
+    "name": "Call of Duty: Modern Warfare",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "A complete reimagining of the Modern Warfare sub-series featuring a realistic and visceral campaign following an SAS officer and CIA operative fighting terrorists in a fictional Middle Eastern country. The game launched Warzone and the new unified progression system across the franchise. Its gunfeel and weapon customisation via Gunsmith remain the gold standard for the genre.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": 76,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Infinity Ward",
+      "publisher": "Activision",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0158",
+    "name": "Call of Duty: World at War",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Treyarch's gritty WWII shooter covers both the Pacific Theatre and the Eastern Front in campaigns of exceptional brutality — flame-throwers, samurai executions and the fall of Berlin. It introduced the iconic Nazi Zombies mode that spawned a franchise within a franchise. The multiplayer was the template for the Modern Warfare 2 system.",
+    "ratings": {
+      "metacritic": 83,
+      "steam": 77,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2008,
+      "developer": "Treyarch",
+      "publisher": "Activision",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0171",
+    "name": "Counter-Strike",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Valve's complete overhaul of CS:GO uses the Source 2 engine to deliver the most technically refined version of counter-terrorism's defining competitive shooter. Smoke grenades now volumetrically react to gunfire and explosions. Server-side hit registration makes every shot feel precise. Despite transitional reception, it is the essential platform for competitive CS going forward.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": 73,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Valve",
+      "publisher": "Valve",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0172",
+    "name": "Counter-Strike 2",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Valve's complete overhaul of CS:GO uses the Source 2 engine to deliver the most technically refined version of counter-terrorism's defining competitive shooter. Smoke grenades now volumetrically react to gunfire and explosions. Server-side hit registration makes every shot feel precise. Despite transitional reception, it is the essential platform for competitive CS going forward.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": 73,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Valve",
+      "publisher": "Valve",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0173",
+    "name": "Counter-Strike: Condition Zero",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0174",
+    "name": "Counter-Strike: Condition Zero Deleted Scenes",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0175",
+    "name": "Counter-Strike: Source",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0183",
+    "name": "Destiny 2",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Bungie's free-to-play shared world shooter has players take the role of Guardians protecting the last city on Earth from alien factions using supernatural Light abilities. Its legendary gunfeel — described as the best shooting in any game — powers seasonal content, raids and dungeons that have produced gaming's most passionate PvE community. The Forsaken and Witch Queen expansions are modern classics.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 69,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2017,
+      "developer": "Bungie",
+      "publisher": "Bungie",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0191",
+    "name": "DOOM Eternal",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "The definitive FPS experience with combat designed as an elaborate resource-management loop — chainsaw for ammo, glory kills for health, flame for armour — all while navigating and destroying waves of Hell's armies to a legendary Mick Gordon metal soundtrack. Its skill ceiling is extraordinarily high, rewarding mastery with the feeling of being unstoppable.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "id Software",
+      "publisher": "Bethesda",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0192",
+    "name": "DOOMBLADE",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Epic Games",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0205",
+    "name": "Far Cry 4",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Set in the fictional Himalayan nation of Kyrat, players join a civil war against charismatic dictator Pagan Min while uncovering the truth about their mother's past. The game introduced the most memorable villain in Far Cry history — Pagan Min, played brilliantly by Troy Baker — and expanded the series' co-op and wildlife systems. Taking the 10-minute ending remains one of gaming's best Easter eggs.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0206",
+    "name": "Far Cry 6",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Players take the role of guerrilla fighter Dani Rojas on the Caribbean island of Yara, overthrowing dictator Antón Castillo played by Giancarlo Esposito. The game introduces the most diverse and creative weapon crafting in the series — Supremo backpacks and Resolver weapons built from junk. Critics praised its world and characters while noting systemic repetition inherited from the series.",
+    "ratings": {
+      "metacritic": 73,
+      "steam": 72,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2021,
+      "developer": "Ubisoft Toronto",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0227",
+    "name": "Half-Life 2",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0228",
+    "name": "Half-Life 2: Deathmatch",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0229",
+    "name": "Half-Life Deathmatch: Source",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0247",
+    "name": "Isonzo",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "An atmospheric WWI tactical shooter focusing on the brutal Italian Front — a theatre often overlooked in gaming — with 60-player battles across historically detailed maps including the legendary Asiago Plateau and Monte Grappa. Its era-authentic weapons, attritional trench warfare mechanics and cinematic weather effects create the most immersive WWI shooter available.",
+    "ratings": {
+      "metacritic": 71,
+      "steam": 82,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "BlackMill Games",
+      "publisher": "M2H",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0264",
+    "name": "Metro 2033 Redux",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "A stunning survival horror FPS set in the tunnels beneath post-nuclear Moscow, following Artyom on a desperate mission through the haunted Metro stations and irradiated surface. Bullets serve as both currency and ammunition. The Redux version delivers completely reworked AI, mechanics, and visual upgrades. Based on Dmitry Glukhovsky's acclaimed novel.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 92,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "4A Games",
+      "publisher": "Deep Silver",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0265",
+    "name": "Metro Exodus",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Artyom and the Spartan Rangers flee the Moscow Metro aboard a steam locomotive in a cross-Russia journey through devastated open biomes — Volga, Caspian Desert, Taiga and Dead City. It dramatically expands Metro's world beyond the tunnels while retaining the survival horror atmosphere and human story. The Enhanced Edition adds ray-tracing of extraordinary visual quality.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "4A Games",
+      "publisher": "Deep Silver",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0266",
+    "name": "Metro Exodus Enhanced Edition",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0282",
+    "name": "PAYDAY 2",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "One of gaming's longest-running co-op heist shooters, PAYDAY 2 lets players plan and execute elaborate bank robberies, drug operations, and museum heists across hundreds of available missions. Its build system with skills, masks, weapons and stealth-versus-loud approaches creates extraordinary replay value. Ten years of DLC and updates have built a dedicated crime community.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": 84,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2013,
+      "developer": "Overkill Software",
+      "publisher": "505 Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0285",
+    "name": "Portal",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Valve's revolutionary puzzle game challenges players to solve increasingly complex spatial puzzles using a portal gun that creates paired wormholes on surfaces. GLaDOS, the passive-aggressive AI managing the Aperture Science facility, delivers some of gaming's greatest writing. At under two hours, Portal is the most perfectly paced game Valve has ever made.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": 98,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2007,
+      "developer": "Valve",
+      "publisher": "Valve",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0286",
+    "name": "Portal Knights",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0309",
+    "name": "Sniper Elite 4",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0324",
+    "name": "Tales from the Borderlands",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "Telltale's finest work, following con artist Fiona and Hyperion corporate lackey Rhys whose heist-gone-wrong story across Pandora is narrated in flashback to an intimidating masked figure. Its humour is extraordinary, its character writing emotional and its ending genuinely moving. Many players consider it better than any of the mainline Borderlands entries.",
+    "ratings": {
+      "metacritic": 89,
+      "steam": 93,
+      "steamLabel": "Overwhelmingly Positive"
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "Telltale Games",
+      "publisher": "Telltale Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0342",
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "The definitive tactical multiplayer shooter where asymmetric attack/defend matches, destructible environments and unique Operator abilities create emergent situations impossible to plan for. Its 60+ Operators — each with distinct gadgets — create a meta that continuously evolves across seasons. From a rough launch it became one of the longest-running active esports titles.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": 83,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0343",
+    "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0344",
+    "name": "Tom Clancy's Rainbow Six: Vegas 2",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0376",
+    "name": "Wolfenstein: The New Order",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "A cinematic FPS set in an alternate 1960s where the Nazis won WWII, following BJ Blazkowicz's one-man resistance against an Orwellian fascist regime. MachineGames combined extraordinary action set-pieces with surprisingly thoughtful character writing that made BJ one of gaming's most compelling protagonists. Its sequel The New Colossus was even more ambitious.",
+    "ratings": {
+      "metacritic": 81,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2014,
+      "developer": "MachineGames",
+      "publisher": "Bethesda",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0377",
+    "name": "Wolfenstein: The Old Blood",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Steam",
+    "synopsis": "A standalone prequel to The New Order following BJ Blazkowicz infiltrating Castle Wolfenstein in an homage to the original games. Its two-part structure — escape from Wolfenstein and a supernatural zombie outbreak — makes for a shorter but entertaining Wolfenstein experience. The stealth mechanics and dual pipe weapons are highlights.",
+    "ratings": {
+      "metacritic": 73,
+      "steam": 84,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "MachineGames",
+      "publisher": "Bethesda",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0388",
+    "name": "Insurgency: Sandstorm (Windows)",
+    "platform": "pc",
+    "genre": "First-Person Shooter",
+    "launcher": "Xbox App",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0408",
+    "name": "Borderlands 3",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "The four Vault Hunters face the Calypso Twins — streaming influencer cult leaders — across Pandora, Promethea, Eden-6 and Athenas in a campaign of spectacular gunplay chaos. With over a billion procedurally generated guns, a genuinely improved story over previous entries and four radically different character builds, it delivered exactly what fans expected from the series.",
+    "ratings": {
+      "metacritic": 84,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Gearbox Software",
+      "publisher": "2K Games",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0409",
+    "name": "Call of Duty: Black Ops III",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0436",
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Miles Morales takes over from Peter Parker to protect a gentrifying Harlem in an intimate Christmas-set story about community, family and discovering his own powers — including bio-electric Venom blasts and invisibility. Its 7-hour campaign is tightly focused and emotionally resonant in ways the original didn't always achieve. The PS5 version runs at 60fps with ray-traced reflections.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Insomniac Games",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0462",
+    "name": "The Last of Us Part II Remastered",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "The definitive version of Naughty Dog's controversial masterpiece adds No Return — a roguelike survival mode with unique scenarios and character-specific runs — alongside behind-the-scenes commentary, guitar free play and multiple new accessibility options. The 60fps and haptic DualSense implementation transforms the combat experience. Its central story remains one of gaming's most divisive and powerful narratives.",
+    "ratings": {
+      "metacritic": 88,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Naughty Dog",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0465",
+    "name": "Tom Clancy's Rainbow Six Extraction",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0468",
+    "name": "Uncharted: Legacy of Thieves Collection",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "The PS5 remaster of Uncharted 4: A Thief's End and Uncharted: The Lost Legacy, running at 60fps with enhanced textures and new accessibility options. Drake's final adventure across the search for Libertalia and Chloe Frazer's standalone Hoysala Empire story are both among the finest cinematic action-adventure games in the medium. The PC version arrived on Steam in 2022.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": 84,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Naughty Dog / Iron Galaxy",
+      "publisher": "Sony Interactive Entertainment",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0469",
+    "name": "Warhammer 40000: Boltgun",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "A retro boomer shooter set in the 40K universe following Space Marine Malum Caedo through the Forge World of Graia at breakneck speed, slaughtering Chaos Space Marines and daemonic forces with a glorious arsenal from the bolter to the power sword. Its pixel-art-inspired aesthetic perfectly captures both old-school shooter design and Warhammer's grimdark aesthetic.",
+    "ratings": {
+      "metacritic": 79,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Auroch Digital",
+      "publisher": "Focus Entertainment",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0470",
+    "name": "Warhammer 40000: Darktide",
+    "platform": "ps5",
+    "genre": "First-Person Shooter",
+    "launcher": "PS5 Console",
+    "synopsis": "Fatshark's Warhammer 40K version of Vermintide featuring four Rejects fighting through the Chaos-infested hive city of Tertium. Its shooting, melee and class customisation feel premium. The game's troubled launch saw significant features missing at release, but post-launch updates have transformed it into the definitive co-op 40K experience. The Imperial Guard Veteran and Psyker classes are particularly satisfying.",
+    "ratings": {
+      "metacritic": 80,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "Fatshark",
+      "publisher": "Fatshark",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0508",
+    "name": "Battlefield 1",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0509",
+    "name": "Battlefield 4",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0510",
+    "name": "Battlefield 6",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0521",
+    "name": "Call of Duty: Black Ops 4",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0522",
+    "name": "Call of Duty: Black Ops Cold War",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0523",
+    "name": "Call of Duty: Modern Warfare 2",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0546",
+    "name": "Deep Rock Galactic",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Space dwarves drill through alien cave systems completing mining assignments against overwhelming insect hordes in gaming's most genuinely co-operative shooter. Four classes — Scout, Driller, Engineer and Gunner — complement each other uniquely. Its dev/community relationship and extraordinary co-op camaraderie have made it one of the highest-rated games on Steam with universal acclaim.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Ghost Ship Games",
+      "publisher": "Coffee Stain Publishing",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0552",
+    "name": "DOOM",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "The definitive FPS experience with combat designed as an elaborate resource-management loop — chainsaw for ammo, glory kills for health, flame for armour — all while navigating and destroying waves of Hell's armies to a legendary Mick Gordon metal soundtrack. Its skill ceiling is extraordinarily high, rewarding mastery with the feeling of being unstoppable.",
+    "ratings": {
+      "metacritic": 87,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "id Software",
+      "publisher": "Bethesda",
+      "esrb": "M"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0570",
+    "name": "Far Cry 3 Classic Edition",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0571",
+    "name": "Far Cry 5",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0572",
+    "name": "Far Cry New Dawn",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0752",
+    "name": "Tom Clancy's Ghost Recon Breakpoint",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0781",
+    "name": "Wolfenstein II: The New Colossus",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0782",
+    "name": "Wolfenstein: Youngblood",
+    "platform": "ps4",
+    "genre": "First-Person Shooter",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]

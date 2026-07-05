@@ -1,0 +1,750 @@
+[
+  {
+    "id": "game-0066",
+    "name": "EA Sports UFC 5",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "The most realistic UFC simulation ever made featuring a complete revamp of the submission and ground game systems, 300 fighters including every current champion, and the Frostbite engine rendering sweat, blood and damage in unprecedented detail. The Real Impact System models cumulative injury that affects how fighters move and absorb damage over multiple rounds. Online ranked modes are extremely competitive.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "EA Vancouver",
+      "publisher": "EA Sports",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0084",
+    "name": "Cricket 26",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "The latest entry in Big Ant Studios' cricket simulation series featuring all major international tournaments, updated player rosters, an improved batting and bowling engine, and the deepest career mode in the franchise. Its photo-realistic player likenesses and dynamic commentary system make it the most authentic cricket game available. Career mode spans grassroots club cricket all the way to international captaincy.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2025,
+      "developer": "Big Ant Studios",
+      "publisher": "Big Ant Studios",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0085",
+    "name": "EA Sports FC 26",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "EA's football franchise continues under its own brand with HyperMotion3 animation technology, updated player ratings, new Rush 5v5 mode enhancements, and the deepest Ultimate Team content calendar yet. The game features every major licensed league and tournament including the Premier League, La Liga, UEFA Champions League and the World Cup. Career mode and Pro Clubs received significant depth improvements.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2025,
+      "developer": "EA Vancouver",
+      "publisher": "EA Sports",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0087",
+    "name": "Ace Combat 7: Skies Unknown",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Project Aces' triumphant return to arcade flight combat after a decade follows Trigger, a pilot framed for murder in the fictional Usean continent conflict, set against stunning cloud-layer dogfights, orbital elevators and stealth drones. Its arcadey controls mask deep mechanical skill ceilings, and its PSVR mission is one of the most spectacular VR experiences on the platform. The story is gloriously melodramatic anime nonsense.",
+    "ratings": {
+      "metacritic": 82,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "Project Aces",
+      "publisher": "Bandai Namco",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0091",
+    "name": "Cricket 24",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Big Ant Studios' cricket simulation featuring every major international format — Tests, ODIs and T20s — with improved batting timing windows, a revamped bowling line and length system, and comprehensive career mode. All major international teams and domestic tournaments are licensed. It represents the most complete cricket simulation available and a significant step up from its predecessor.",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Big Ant Studios",
+      "publisher": "Big Ant Studios",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0105",
+    "name": "NHL 24",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "EA Sports' ice hockey simulation featuring all 32 NHL teams with updated rosters, a revamped hitting system using real-world physics data, improved goalie intelligence, and the deepest Be a Pro career mode in the franchise. World of Chel online modes offer a variety of competitive and casual formats. Its authenticity in capturing the speed and physicality of NHL hockey remains the benchmark for the sport.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "EA Vancouver",
+      "publisher": "EA Sports",
+      "esrb": "E10+"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0109",
+    "name": "Rocket League",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "Psyonix's rocket-powered car football game pits teams of rocket-boosted vehicles against each other in an arena to score goals, combining the accessibility of a sports game with the skill ceiling of a competitive fighting game. Its physics engine enables aerial plays, wall drives and demolition derbies that took years for the community to fully master. It went free-to-play in 2020 and remains one of the most-played competitive games.",
+    "ratings": {
+      "metacritic": 86,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2015,
+      "developer": "Psyonix",
+      "publisher": "Psyonix",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0119",
+    "name": "WWE 2K24",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "The 2024 entry in 2K's wrestling simulation series celebrates 40 years of WrestleMania with 200+ wrestlers, the new Bloodline Rules match type, and the deepest MyRise career mode story yet. Improvements to grapple systems, reversal timing and pin mechanics built on the successful 2K22 and 2K23 foundation. The Showcase mode recreates iconic WrestleMania moments across four decades.",
+    "ratings": {
+      "metacritic": 77,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "Visual Concepts",
+      "publisher": "2K Sports",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0167",
+    "name": "Command & Conquer Remastered Collection",
+    "platform": "pc",
+    "genre": "Sports",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0194",
+    "name": "EA SPORTS FC 24",
+    "platform": "pc",
+    "genre": "Sports",
+    "launcher": "Steam",
+    "synopsis": "The first annual football game under EA Sports' own FC branding following the split with FIFA, featuring HyperMotion V technology for more realistic player animations and the new PlayStyles system replacing chemistry cards. All the major leagues and competitions remain licensed. Its reception was mixed — praised for gameplay refinements but criticised for Ultimate Team monetisation practices.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": 57,
+      "steamLabel": "Mixed"
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "EA Vancouver",
+      "publisher": "EA Sports",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0195",
+    "name": "EA SPORTS FC 25",
+    "platform": "pc",
+    "genre": "Sports",
+    "launcher": "Steam",
+    "synopsis": "The second standalone EA Sports FC entry continues to refine the football simulation with updated Rush 5v5 mode and improved Rush club. All major international competitions including the Women's Champions League receive expanded coverage. Career Mode receives meaningful updates for manager and player paths alike.",
+    "ratings": {
+      "metacritic": 71,
+      "steam": 55,
+      "steamLabel": "Mixed"
+    },
+    "releaseInfo": {
+      "year": 2024,
+      "developer": "EA Vancouver",
+      "publisher": "EA Sports",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0196",
+    "name": "EA SPORTS FIFA 23",
+    "platform": "pc",
+    "genre": "Sports",
+    "launcher": "Steam",
+    "synopsis": "The final game under the historic FIFA licence, delivering both men's and women's World Cups alongside the standard club football experience. HyperMotion2 brought new animation fidelity for female player likenesses. Its swansong nature made it a landmark for the franchise's 30-year history before the EA Sports FC rebrand.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": 69,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "EA Vancouver",
+      "publisher": "EA Sports",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0213",
+    "name": "Football Manager 2024",
+    "platform": "pc",
+    "genre": "Sports",
+    "launcher": "Steam",
+    "synopsis": "The most detailed football management simulation in history, placing players in the role of head coach for any professional club worldwide with accurate squad data, transfer market simulation, match engine tactics and press conference management. Its depth is extraordinary — some players spend thousands of hours perfecting a single save file. The 2024 edition brought improved pre-match and half-time tools.",
+    "ratings": {
+      "metacritic": 86,
+      "steam": 76,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2023,
+      "developer": "Sports Interactive",
+      "publisher": "SEGA",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0222",
+    "name": "Golf With Your Friends",
+    "platform": "pc",
+    "genre": "Sports",
+    "launcher": "Steam",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.634Z",
+    "updatedAt": "2026-07-05T18:43:17.634Z"
+  },
+  {
+    "id": "game-0365",
+    "name": "Unity of Command II",
+    "platform": "pc",
+    "genre": "Sports",
+    "launcher": "Steam",
+    "synopsis": "The cleanest and most elegant WWII wargame available, focusing on supply lines and encirclement as the core strategic concepts through a comprehensive WW2 campaign spanning Rommel's Tunisia to the fall of Berlin. Its streamlined design eliminates tedium while preserving authentic operational decisions. Considered the gateway wargame for strategy players seeking historical depth.",
+    "ratings": {
+      "metacritic": 85,
+      "steam": 88,
+      "steamLabel": "Very Positive"
+    },
+    "releaseInfo": {
+      "year": 2019,
+      "developer": "2x2 Games",
+      "publisher": "Croteam",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0417",
+    "name": "F1 23",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0440",
+    "name": "NBA 2K23",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0441",
+    "name": "NBA 2K25",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0466",
+    "name": "Tony Hawk's Pro Skater 1+2",
+    "platform": "ps5",
+    "genre": "Sports",
+    "launcher": "PS5 Console",
+    "synopsis": "Vicarious Visions' faithful ground-up recreation of the first two Tony Hawk games recreates every original level and trick system with spectacular modern visuals. The nostalgia of landing perfect runs in Warehouse or School II is fully preserved. Online multiplayer brings competitive skating to a whole new generation of players worldwide.",
+    "ratings": {
+      "metacritic": 90,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": 2020,
+      "developer": "Vicarious Visions",
+      "publisher": "Activision",
+      "esrb": "T"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0487",
+    "name": "AO Tennis 2",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0536",
+    "name": "Cricket 22",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0558",
+    "name": "EA SPORTS UFC 4",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0565",
+    "name": "Everybody's Golf",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0574",
+    "name": "FIFA 21",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0575",
+    "name": "FIFA 22",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0576",
+    "name": "FIFA 22 PS4",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0577",
+    "name": "FIFA 23",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "The final game under the historic FIFA licence, delivering both men's and women's World Cups alongside the standard club football experience. HyperMotion2 brought new animation fidelity for female player likenesses. Its swansong nature made it a landmark for the franchise's 30-year history before the EA Sports FC rebrand.",
+    "ratings": {
+      "metacritic": 75,
+      "steam": 69,
+      "steamLabel": "Mostly Positive"
+    },
+    "releaseInfo": {
+      "year": 2022,
+      "developer": "EA Vancouver",
+      "publisher": "EA Sports",
+      "esrb": "E"
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0581",
+    "name": "Football Manager 26 Console Edition",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0633",
+    "name": "Madden NFL 26",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0663",
+    "name": "NHL 22",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0732",
+    "name": "Tennis World Tour",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0733",
+    "name": "Tennis World Tour 2",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0773",
+    "name": "Venba",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  },
+  {
+    "id": "game-0785",
+    "name": "WWE 2K Battlegrounds",
+    "platform": "ps4",
+    "genre": "Sports",
+    "launcher": "PS4 BC / USB",
+    "synopsis": "",
+    "ratings": {
+      "metacritic": null,
+      "steam": null,
+      "steamLabel": null
+    },
+    "releaseInfo": {
+      "year": null,
+      "developer": "",
+      "publisher": "",
+      "esrb": ""
+    },
+    "status": "imported",
+    "createdAt": "2026-07-05T18:43:17.635Z",
+    "updatedAt": "2026-07-05T18:43:17.635Z"
+  }
+]
